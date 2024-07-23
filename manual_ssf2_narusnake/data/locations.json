@@ -1,0 +1,530 @@
+[
+    {
+        "name": "Beat the Game - Ryu",
+        "category": ["Beat the Game"],
+        "requires": "|Ryu|"
+    },
+    {
+        "name": "Beat the Game - E.Honda",
+        "category": ["Beat the Game"],
+        "requires": "|E.Honda|"
+    },
+    {
+        "name": "Beat the Game - Blanka",
+        "category": ["Beat the Game"],
+        "requires": "|Blanka|"
+    },
+    {
+        "name": "Beat the Game - Guile",
+        "category": ["Beat the Game"],
+        "requires": "|Guile|"
+    },
+    {
+        "name": "Beat the Game - T.Hawk",
+        "category": ["Beat the Game"],
+        "requires": "|T.Hawk|"
+    },
+    {
+        "name": "Beat the Game - Fei Long",
+        "category": ["Beat the Game"],
+        "requires": "|Fei Long|"
+    },
+    {
+        "name": "Beat the Game - Balrog",
+        "category": ["Beat the Game"],
+        "requires": "|Balrog|"
+    },
+    {
+        "name": "Beat the Game - Sagat",
+        "category": ["Beat the Game"],
+        "requires": "|Sagat|"
+    },
+    {
+        "name": "Beat the Game - Ken",
+        "category": ["Beat the Game"],
+        "requires": "|Ken|"
+    },
+    {
+        "name": "Beat the Game - Chun-Li",
+        "category": ["Beat the Game"],
+        "requires": "|Chun-Li|"
+    },
+    {
+        "name": "Beat the Game - Zangief",
+        "category": ["Beat the Game"],
+        "requires": "|Zangief|"
+    },
+    {
+        "name": "Beat the Game - Dhalsim",
+        "category": ["Beat the Game"],
+        "requires": "|Dhalsim|"
+    },
+    {
+        "name": "Beat the Game - Cammy",
+        "category": ["Beat the Game"],
+        "requires": "|Cammy|"
+    },
+    {
+        "name": "Beat the Game - Dee Jay",
+        "category": ["Beat the Game"],
+        "requires": "|Dee Jay|"
+    },
+    {
+        "name": "Beat the Game - Vega",
+        "category": ["Beat the Game"],
+        "requires": "|Vega|"
+    },
+    {
+        "name": "Beat the Game - M.Bison",
+        "category": ["Beat the Game"],
+        "requires": "|M.Bison|"
+    },
+    {
+        "name": "Defeat - Ryu",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - E.Honda",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Blanka",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Guile",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },    {
+        "name": "Defeat - T.Hawk",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Fei Long",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },    {
+        "name": "Defeat - Balrog",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },    {
+        "name": "Defeat - Sagat",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Ken",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Chun-Li",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Zangief",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Dhalsim",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Defeat - Cammy",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },    {
+        "name": "Defeat - Dee Jay",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },    {
+        "name": "Defeat - Vega",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },    {
+        "name": "Defeat - M.Bison",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Get Perfect",
+        "category": ["Defeated"],
+        "requires": [
+            {
+                "or": [
+                    "Ryu",
+                    "E.Honda",
+                    "Blanka",
+                    "Guile",
+                    "T.Hawk",
+                    "Fei Long",
+                    "Balrog",
+                    "Sagat",
+                    "Ken",
+                    "Chun-Li",
+                    "Zangief",
+                    "Dhalsim",
+                    "Cammy",
+                    "Dee Jay",
+                    "Vega",
+                    "M.Bison"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "All Characters Complete!",
+        "victory": true,
+        "category": ["Goal"],
+        "requires": [
+            "Ryu",
+            "E.Honda",
+            "Blanka",
+            "Guile",
+            "T.Hawk",
+            "Fei Long",
+            "Balrog",
+            "Sagat",
+            "Ken",
+            "Chun-Li",
+            "Zangief",
+            "Dhalsim",
+            "Cammy",
+            "Dee Jay",
+            "Vega",
+            "M.Bison"
+        ]
+    },
+    {
+        "name": "Beat All Characters",
+        "victory": true,
+        "category": ["Goal"]
+    }  
+]

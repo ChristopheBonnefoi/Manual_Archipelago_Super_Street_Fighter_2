@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Ryu",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "E.Honda",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Blanka",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Guile",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "T.Hawk",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Fei Long",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Balrog",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Sagat",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Ken",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Chun-Li",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Zangief",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dhalsim",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Cammy",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dee Jay",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Vega",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "M.Bison",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "1 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "2 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "3 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "4 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "5 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "6 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "7 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "8 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    }
+]
