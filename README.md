@@ -1,2 +1,2 @@
-# Manual_Archipelago_NaruSnake
-Here is my personal page for Manuel Archipelago. Here, you will find all my amateur work.
+# Manual_Archipelago_Super_Street_Fighter_2
+Here you will find my Archipel Guide for Super Street Fighter 2
