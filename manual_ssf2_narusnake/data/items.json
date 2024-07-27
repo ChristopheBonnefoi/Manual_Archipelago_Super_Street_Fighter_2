@@ -134,5 +134,11 @@
         "name": "8 Stars",
         "category": ["Difficulty"],
         "count": 1
+    },
+    {
+        "name": "Victory Token",
+        "category": ["Token"],
+        "count": 10,
+        "progression": true
     }
 ]

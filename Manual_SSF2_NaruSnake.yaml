@@ -63,13 +63,8 @@ Manual_SSF2_NaruSnake:
 
   goal:
     # Choose your victory condition.
-    Beat All Characters: 50
+    Street Fighter Token: 50
     All Characters Complete!: 0
-
-  # Difficulty option:
-  difficulty:
-    true: 0
-    false: 50
 
   # Item & Location Options
   local_items:

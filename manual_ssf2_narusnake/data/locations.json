@@ -81,423 +81,76 @@
     },
     {
         "name": "Defeat - Ryu",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - E.Honda",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Blanka",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Guile",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },    {
         "name": "Defeat - T.Hawk",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Fei Long",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },    {
         "name": "Defeat - Balrog",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },    {
         "name": "Defeat - Sagat",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Ken",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Chun-Li",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Zangief",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Dhalsim",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Defeat - Cammy",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
-    },    {
+        "category": ["Defeated"]
+    },    
+    {
         "name": "Defeat - Dee Jay",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
-    },    {
+        "category": ["Defeated"]
+    },
+    {
         "name": "Defeat - Vega",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "M.Bison"
-                ]
-            }
-        ]
-    },    {
+        "category": ["Defeated"]
+    },    
+    {
         "name": "Defeat - M.Bison",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
     },
     {
         "name": "Get Perfect",
-        "category": ["Defeated"],
-        "requires": [
-            {
-                "or": [
-                    "Ryu",
-                    "E.Honda",
-                    "Blanka",
-                    "Guile",
-                    "T.Hawk",
-                    "Fei Long",
-                    "Balrog",
-                    "Sagat",
-                    "Ken",
-                    "Chun-Li",
-                    "Zangief",
-                    "Dhalsim",
-                    "Cammy",
-                    "Dee Jay",
-                    "Vega",
-                    "M.Bison"
-                ]
-            }
-        ]
+        "category": ["Defeated"]
+    },
+    {
+        "name": "Beat Ryu with Ken",
+        "category": ["Fun"]
+    },
+    {
+        "name": "Beat Ken with Ryu",
+        "category": ["Fun"]
     },
     {
         "name": "All Characters Complete!",
@@ -526,5 +179,11 @@
         "name": "Beat All Characters",
         "victory": true,
         "category": ["Goal"]
-    }  
+    },
+    {
+        "name": "Street Fighter Token",
+        "victory": true,
+        "category": ["Goal"],
+        "requires": "|Victory Token:ALL|"
+    }    
 ]
