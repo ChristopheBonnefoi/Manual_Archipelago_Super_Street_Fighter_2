@@ -64,7 +64,9 @@ Manual_SSF2_NaruSnake:
   goal:
     # Choose your victory condition.
     Street Fighter Token: 50
-    All Characters Complete!: 0
+    Super Battle Mode -ALL CLEARS-: 0
+    Time Challenge Mode -ALL CLEARS-: 0
+    ALL CLEARS + TOKENS: 0
 
   # Item & Location Options
   local_items:

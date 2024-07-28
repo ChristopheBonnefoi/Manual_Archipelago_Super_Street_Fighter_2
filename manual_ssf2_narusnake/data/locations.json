@@ -1,184 +1,506 @@
 [
     {
         "name": "Beat the Game - Ryu",
-        "category": ["Beat the Game"],
-        "requires": "|Ryu|"
-    },
-    {
-        "name": "Beat the Game - E.Honda",
-        "category": ["Beat the Game"],
-        "requires": "|E.Honda|"
-    },
-    {
-        "name": "Beat the Game - Blanka",
-        "category": ["Beat the Game"],
-        "requires": "|Blanka|"
-    },
-    {
-        "name": "Beat the Game - Guile",
-        "category": ["Beat the Game"],
-        "requires": "|Guile|"
-    },
-    {
-        "name": "Beat the Game - T.Hawk",
-        "category": ["Beat the Game"],
-        "requires": "|T.Hawk|"
-    },
-    {
-        "name": "Beat the Game - Fei Long",
-        "category": ["Beat the Game"],
-        "requires": "|Fei Long|"
-    },
-    {
-        "name": "Beat the Game - Balrog",
-        "category": ["Beat the Game"],
-        "requires": "|Balrog|"
-    },
-    {
-        "name": "Beat the Game - Sagat",
-        "category": ["Beat the Game"],
-        "requires": "|Sagat|"
-    },
-    {
-        "name": "Beat the Game - Ken",
-        "category": ["Beat the Game"],
-        "requires": "|Ken|"
-    },
-    {
-        "name": "Beat the Game - Chun-Li",
-        "category": ["Beat the Game"],
-        "requires": "|Chun-Li|"
-    },
-    {
-        "name": "Beat the Game - Zangief",
-        "category": ["Beat the Game"],
-        "requires": "|Zangief|"
-    },
-    {
-        "name": "Beat the Game - Dhalsim",
-        "category": ["Beat the Game"],
-        "requires": "|Dhalsim|"
-    },
-    {
-        "name": "Beat the Game - Cammy",
-        "category": ["Beat the Game"],
-        "requires": "|Cammy|"
-    },
-    {
-        "name": "Beat the Game - Dee Jay",
-        "category": ["Beat the Game"],
-        "requires": "|Dee Jay|"
-    },
-    {
-        "name": "Beat the Game - Vega",
-        "category": ["Beat the Game"],
-        "requires": "|Vega|"
-    },
-    {
-        "name": "Beat the Game - M.Bison",
-        "category": ["Beat the Game"],
-        "requires": "|M.Bison|"
-    },
-    {
-        "name": "Defeat - Ryu",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - E.Honda",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Blanka",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Guile",
-        "category": ["Defeated"]
-    },    {
-        "name": "Defeat - T.Hawk",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Fei Long",
-        "category": ["Defeated"]
-    },    {
-        "name": "Defeat - Balrog",
-        "category": ["Defeated"]
-    },    {
-        "name": "Defeat - Sagat",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Ken",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Chun-Li",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Zangief",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Dhalsim",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Cammy",
-        "category": ["Defeated"]
-    },    
-    {
-        "name": "Defeat - Dee Jay",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Defeat - Vega",
-        "category": ["Defeated"]
-    },    
-    {
-        "name": "Defeat - M.Bison",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Get Perfect",
-        "category": ["Defeated"]
-    },
-    {
-        "name": "Beat Ryu with Ken",
-        "category": ["Fun"]
-    },
-    {
-        "name": "Beat Ken with Ryu",
-        "category": ["Fun"]
-    },
-    {
-        "name": "All Characters Complete!",
-        "victory": true,
-        "category": ["Goal"],
+        "category": ["Super Battle Mode"],
         "requires": [
-            "Ryu",
-            "E.Honda",
-            "Blanka",
-            "Guile",
-            "T.Hawk",
-            "Fei Long",
-            "Balrog",
-            "Sagat",
-            "Ken",
-            "Chun-Li",
-            "Zangief",
-            "Dhalsim",
-            "Cammy",
-            "Dee Jay",
-            "Vega",
-            "M.Bison"
+            "Ryu [Player]",
+            "Super Battle"
         ]
     },
     {
-        "name": "Beat All Characters",
+        "name": "Beat the Game - E.Honda",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Blanka",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Guile",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - T.Hawk",
+        "category": ["Super Battle Mode"],
+        "requires": "|T.Hawk [Player]|"
+    },
+    {
+        "name": "Beat the Game - Fei Long",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Balrog",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Sagat",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Ken",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Chun-Li",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Zangief",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Dhalsim",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Cammy",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Dee Jay",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - Vega",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat the Game - M.Bison",
+        "category": ["Super Battle Mode"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round",
+        "category": ["Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Get Perfect Bonus 1",
+        "category": ["Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Get Perfect Bonus 2",
+        "category": ["Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Get Perfect Bonus 3",
+        "category": ["Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Ryu in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - E.Honda  in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Blanka  in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Guile  in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },    {
+        "name": "Defeat - T.Hawk in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Fei Long in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },    
+    {
+        "name": "Defeat - Balrog in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },    
+    {
+        "name": "Defeat - Sagat in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Ken in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Chun-Li in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Zangief in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Dhalsim in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Cammy in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },    
+    {
+        "name": "Defeat - Dee Jay in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Vega in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },    
+    {
+        "name": "Defeat - M.Bison in Super Battle Mode",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Defeat - Ryu in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Ryu [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - E.Honda  in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "E.Honda [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Blanka  in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Blanka [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Guile  in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Guile [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },    {
+        "name": "Defeat - T.Hawk in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "T.Hawk [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Fei Long in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Fei Long [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },    {
+        "name": "Defeat - Balrog in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Balrog [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },    {
+        "name": "Defeat - Sagat in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Sagat [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Ken in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Ken [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Chun-Li in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Chun-Li [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Zangief in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Zangief [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Dhalsim in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Dhalsim [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Cammy in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Cammy [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },    
+    {
+        "name": "Defeat - Dee Jay in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Dee Jay [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Defeat - Vega in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "Vega [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },    
+    {
+        "name": "Defeat - M.Bison in Time Challenge",
+        "category": ["Defeated in Time Challenge"],
+        "requires": [
+            "M.Bison [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "Beat Ryu with Ken",
+        "category": ["Challenge"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ken with Ryu",
+        "category": ["Challenge"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Sagat with Ryu",
+        "category": ["Challenge"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ryu with Sagat",
+        "category": ["Challenge"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Chun-Li with Cammy",
+        "category": ["Challenge"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with Chun-li",
+        "category": ["Challenge"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Zangief with E.Honda",
+        "category": ["Challenge"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat E.Honda with Zangief",
+        "category": ["Challenge"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Super Battle Mode -ALL CLEARS-",
         "victory": true,
-        "category": ["Goal"]
+        "category": ["Goal"],
+        "requires": [
+            "Ryu [Player]",
+            "E.Honda [Player]",
+            "Blanka [Player]",
+            "Guile [Player]",
+            "T.Hawk [Player]",
+            "Fei Long [Player]",
+            "Balrog [Player]",
+            "Sagat [Player]",
+            "Ken [Player]",
+            "Chun-Li [Player]",
+            "Zangief [Player]",
+            "Dhalsim [Player]",
+            "Cammy [Player]",
+            "Dee Jay [Player]",
+            "Vega [Player]",
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Time Challenge Mode -ALL CLEARS-",
+        "victory": true,
+        "category": ["Goal"],
+        "requires": [
+            "Ryu [CPU for Time Challenge]",
+            "E.Honda [CPU for Time Challenge]",
+            "Blanka [CPU for Time Challenge]",
+            "Guile [CPU for Time Challenge]",
+            "T.Hawk [CPU for Time Challenge]",
+            "Fei Long [CPU for Time Challenge]",
+            "Balrog [CPU for Time Challenge]",
+            "Sagat [CPU for Time Challenge]",
+            "Ken [CPU for Time Challenge]",
+            "Chun-Li [CPU for Time Challenge]",
+            "Zangief [CPU for Time Challenge]",
+            "Dhalsim [CPU for Time Challenge]",
+            "Cammy [CPU for Time Challenge]",
+            "Dee Jay [CPU for Time Challenge]",
+            "Vega [CPU for Time Challenge]",
+            "M.Bison [CPU for Time Challenge]",
+            "Time Challenge"
+        ]
+    },
+    {
+        "name": "ALL CLEARS + TOKENS",
+        "victory": true,
+        "category": ["Goal"],
+        "requires": [
+            "Ryu [CPU for Time Challenge]",
+            "E.Honda [CPU for Time Challenge]",
+            "Blanka [CPU for Time Challenge]",
+            "Guile [CPU for Time Challenge]",
+            "T.Hawk [CPU for Time Challenge]",
+            "Fei Long [CPU for Time Challenge]",
+            "Balrog [CPU for Time Challenge]",
+            "Sagat [CPU for Time Challenge]",
+            "Ken [CPU for Time Challenge]",
+            "Chun-Li [CPU for Time Challenge]",
+            "Zangief [CPU for Time Challenge]",
+            "Dhalsim [CPU for Time Challenge]",
+            "Cammy [CPU for Time Challenge]",
+            "Dee Jay [CPU for Time Challenge]",
+            "Vega [CPU for Time Challenge]",
+            "M.Bison [CPU for Time Challenge]",
+            "Time Challenge",
+            "Ryu [Player]",
+            "E.Honda [Player]",
+            "Blanka [Player]",
+            "Guile [Player]",
+            "T.Hawk [Player]",
+            "Fei Long [Player]",
+            "Balrog [Player]",
+            "Sagat [Player]",
+            "Ken [Player]",
+            "Chun-Li [Player]",
+            "Zangief [Player]",
+            "Dhalsim [Player]",
+            "Cammy [Player]",
+            "Dee Jay [Player]",
+            "Vega [Player]",
+            "M.Bison [Player]",
+            "Super Battle",
+            "Victory Token:20"
+        ]
     },
     {
         "name": "Street Fighter Token",

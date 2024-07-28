@@ -10,6 +10,14 @@
 		{
 			"item_categories": [ "Difficulty" ],
 			"random": 1
+		},
+		{
+			"item_categories": [ "Game Mode" ],
+			"random": 1
+		},
+		{
+			"item_categories": [ "CPU TIme Challenge" ],
+			"random": 1
 		}
 	]
 }

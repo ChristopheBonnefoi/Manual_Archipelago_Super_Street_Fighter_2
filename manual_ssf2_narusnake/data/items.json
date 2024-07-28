@@ -1,96 +1,96 @@
 [
     {
-        "name": "Ryu",
+        "name": "Ryu [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "E.Honda",
+        "name": "E.Honda [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Blanka",
+        "name": "Blanka [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Guile",
+        "name": "Guile [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "T.Hawk",
+        "name": "T.Hawk [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Fei Long",
+        "name": "Fei Long [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Balrog",
+        "name": "Balrog [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Sagat",
+        "name": "Sagat [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Ken",
+        "name": "Ken [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Chun-Li",
+        "name": "Chun-Li [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Zangief",
+        "name": "Zangief [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Dhalsim",
+        "name": "Dhalsim [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Cammy",
+        "name": "Cammy [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Dee Jay",
+        "name": "Dee Jay [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "Vega",
+        "name": "Vega [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
     },
     {
-        "name": "M.Bison",
+        "name": "M.Bison [Player]",
         "category": ["Characters"],
         "count": 1,
         "progression": true
@@ -136,9 +136,117 @@
         "count": 1
     },
     {
+        "name": "Super Battle",
+        "category": ["Game Mode"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Time Challenge",
+        "category": ["Game Mode"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Ryu [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "E.Honda [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Blanka [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Guile [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "T.Hawk [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Fei Long [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Balrog [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Sagat [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Ken [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Chun-Li [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Zangief [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dhalsim [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Cammy [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dee Jay [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Vega [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "M.Bison [CPU for Time Challenge]",
+        "category": ["CPU TIme Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
         "name": "Victory Token",
         "category": ["Token"],
-        "count": 10,
+        "count": 20,
         "progression": true
     }
 ]
