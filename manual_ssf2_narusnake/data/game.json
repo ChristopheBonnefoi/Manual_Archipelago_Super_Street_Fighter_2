@@ -16,8 +16,12 @@
 			"random": 1
 		},
 		{
-			"item_categories": [ "CPU TIme Challenge" ],
+			"item_categories": [ "CPU Time Challenge" ],
 			"random": 1
+		},
+		{
+			"item_categories": [ "Token" ],
+			"random": 0
 		}
 	]
 }

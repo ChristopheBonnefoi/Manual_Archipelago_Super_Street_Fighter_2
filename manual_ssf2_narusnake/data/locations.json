@@ -1,148 +1,2701 @@
 [
     {
-        "name": "Beat the Game - Ryu",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 1 Clear - Ryu",
+        "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - E.Honda",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "I am the grand master of karate -Beat the Game - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Masters of Hadoken - Beat Ken with Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "You Were Losing, I Think - Beat Vega with Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Scar of Honor - Beat Sagat with Ryu",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - E.Honda",
+        "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Blanka",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "World’s Strongest Sumo - Beat the Game - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Monster Fight Showdown - Beat Zangief with E.Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Japanese Duel - Defeat Ryu with E. Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "City Hunter Clash - Defeat Ken with E. Honda",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Blanka",
+        "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Guile",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Mother’s Embrace - Beat the Game - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Jungle Power - Beat Zangief with Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Battle for Redemption - Beat Cammy with Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Humanity's Touch - Beat Dhalsim with Blanka",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Guile",
+        "category": ["Guile"],
         "requires": [
             "Guile [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - T.Hawk",
-        "category": ["Super Battle Mode"],
-        "requires": "|T.Hawk [Player]|"
+        "name": "Fight 2 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
     },
     {
-        "name": "Beat the Game - Fei Long",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 3 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Vengeance Relinquished - Beat the Game - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Ideological Warfare - Beat Zangief with Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Training Day - Beat Cammy with Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "This is the Collection Agency, Bison. Your Ass is Six Months Overdue, and It's Mine. - Beat M.Bison with Guile",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 2 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Restored Heritage - Beat the Game - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Clash of the Titans - Beat Zangief with T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Spiritual Showdown - Beat Dhalsim with T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Sky Power - Beat Cammy with T.Hawk",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Fei Long",
+        "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Balrog",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Fei Long",
+        "category": ["Fei Long"],
         "requires": [
-            "Balrog [Player]",
+            "Fei Long [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Sagat",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 3 Clear - Fei Long",
+        "category": ["Fei Long"],
         "requires": [
-            "Sagat [Player]",
+            "Fei Long [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Ken",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 4 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Path of the True Warrior - Beat the Game - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Duel of Discipline - Beat Ryu with Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Clash of the Dragons - Beat Chun-Li with Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Big Boss Showdown - Beat Sagat with Fei Long",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Ken",
+        "category": ["Ken"],
         "requires": [
             "Ken [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Chun-Li",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Wedding Bells Victory - Beat the Game - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Eternal Rivals - Beat Ryu with Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Defender of Love - Beat Vega with Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Glad I met you. I could have turned out like you. - Beat Sagat with Ken",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Chun-Li",
+        "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Zangief",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Justice for the Fallen - Beat the Game with Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beauty and the Beast - Beat Vega with Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Father, I Have Avenged You - Beat M.Bison with Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Interpol Alliance - Beat Guile with Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beauty Battle - Beat Cammy with Chun-Li",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Zangief",
+        "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Dhalsim",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Patriot's Triumph - Beat the Game with Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Clash of Strength - Beat E.Honda with Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fur-ocious Battle - Beat Blanka with Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Cold War Clash - Beat Guile with Zangief",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Cammy",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Zenith of Yoga - Beat the Game with Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Dhalsim ",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Heavyweight vs. Lightweight - Beat E. Honda with Dhalsim",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beyond the Monster - Beat Blanka with Dhalsim",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "One Bald Punch - Beat Sagat with Dhalsim",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Cammy",
+        "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Dee Jay",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Awakening from the Shadows - Beat the Game with Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "I'm Not Your Doll - Beat M. Bison with Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Femme Fatale Face-off - Beat Chun-Li with Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Delta Force vs. Air Force - Beat Guile with Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Battle of the Braids - Beat Vega with Cammy",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+
+    {
+        "name": "Fight 1 Clear - Dee Jay",
+        "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - Vega",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Rhythm of Victory - Beat the Game with Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "The Beat of the Beast: Beat Blanka with Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Kung Fu vs. Dance Crew: Beat Fei Long with Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Tribal Beats: Beat T. Hawk with Dee Jay",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+
+    {
+        "name": "Fight 1 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 2 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Greed's Reward - Beat the Game with Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "After the Father, the Daughter Falls - Beat Chun-Li with Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Eye of the True Tiger - Beat Sagat with Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Stars and Strikes - Beat Ken with Balrog",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - Vega",
+        "category": ["Vega"],
         "requires": [
             "Vega [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Beat the Game - M.Bison",
-        "category": ["Super Battle Mode"],
+        "name": "Fight 2 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Reflections of Perfection - Beat the Game with Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "No Escape This Time - Beat Chun-Li with Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Braid to Braid Combat - Beat Cammy with Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Where Were We? - Beat Ryu with Vega",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },   
+    {
+        "name": "Fight 1 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 2 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 3 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 4 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 5 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "The King's Unfinished Business - Beat the Game with Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Scarred for Vengeance - Beat Ryu with Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Eye of the Tiger Knee - Beat Balrog with Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Tiger vs. Tyrant - Beat M.Bison with Sagat",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 1 Clear - M.Bison",
+        "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
             "Super Battle"
         ]
     },
     {
-        "name": "Get Perfect Round",
-        "category": ["Super Battle Mode"],
-        "requires": "|Super Battle|"
+        "name": "Fight 2 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
     },
     {
-        "name": "Get Perfect Bonus 1",
-        "category": ["Super Battle Mode"],
-        "requires": "|Super Battle|"
+        "name": "Fight 3 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
     },
     {
-        "name": "Get Perfect Bonus 2",
-        "category": ["Super Battle Mode"],
-        "requires": "|Super Battle|"
+        "name": "Fight 4 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
     },
     {
-        "name": "Get Perfect Bonus 3",
-        "category": ["Super Battle Mode"],
-        "requires": "|Super Battle|"
+        "name": "Fight 5 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },    {
+        "name": "Fight 6 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 7 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 8 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 9 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 10 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 11 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fight 12 Clear - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "World Conqueror - Beat the Game with M. Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Stun - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Round - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 1 - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 2 - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Get Perfect Bonus 3 - M.Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Deny My Divinity? - Beat Guile with M. Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "But for Me, It Was Tuesday - Beat Chun-Li with M. Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "You Were the Best, But Still Just a Doll - Beat Cammy with M. Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Guess Who's Not Seeing a Thing - Defeat Sagat with M. Bison",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
     },
     {
         "name": "Defeat - Ryu in Super Battle Mode",
@@ -349,30 +2902,6 @@
         ]
     },
     {
-        "name": "Beat Ryu with Ken",
-        "category": ["Challenge"],
-        "requires": [
-            "Ken [Player]",
-            "Super Battle"
-        ]
-    },
-    {
-        "name": "Beat Ken with Ryu",
-        "category": ["Challenge"],
-        "requires": [
-            "Ryu [Player]",
-            "Super Battle"
-        ]
-    },
-    {
-        "name": "Beat Sagat with Ryu",
-        "category": ["Challenge"],
-        "requires": [
-            "Ryu [Player]",
-            "Super Battle"
-        ]
-    },
-    {
         "name": "Beat Ryu with Sagat",
         "category": ["Challenge"],
         "requires": [
@@ -385,22 +2914,6 @@
         "category": ["Challenge"],
         "requires": [
             "Cammy [Player]",
-            "Super Battle"
-        ]
-    },
-    {
-        "name": "Beat Cammy with Chun-li",
-        "category": ["Challenge"],
-        "requires": [
-            "Chun-Li [Player]",
-            "Super Battle"
-        ]
-    },
-    {
-        "name": "Beat Zangief with E.Honda",
-        "category": ["Challenge"],
-        "requires": [
-            "E.Honda [Player]",
             "Super Battle"
         ]
     },

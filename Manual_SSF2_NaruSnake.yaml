@@ -28,7 +28,7 @@
 name: Player{number}
 
 # Used to describe your yaml. Useful if you have multiple files.
-description: Default Manual_Stable_20240709 Template
+description: Default Manual_SSF2_NaruSnake Template
 
 game: Manual_SSF2_NaruSnake
 requires:
@@ -63,10 +63,20 @@ Manual_SSF2_NaruSnake:
 
   goal:
     # Choose your victory condition.
-    Street Fighter Token: 50
-    Super Battle Mode -ALL CLEARS-: 0
-    Time Challenge Mode -ALL CLEARS-: 0
-    ALL CLEARS + TOKENS: 0
+    super battle mode -all clears-: 50
+    time challenge mode -all clears-: 0
+    all clears + tokens: 0
+    street fighter token: 0
+
+  Difficulty:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
+
+  Token:
+    # Should items/locations linked to this option be enabled?
+    'false': 0
+    'true': 50
 
   # Item & Location Options
   local_items:

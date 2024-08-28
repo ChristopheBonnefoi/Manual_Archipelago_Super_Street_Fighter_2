@@ -1,8 +1,10 @@
 {
-    "Example Logic only category": {
-        "hidden": true
+    "Difficulty": {
+        "hidden": true,
+        "yaml_option": ["Difficulty"]
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
+    "Token": {
+        "hidden": true,
+        "yaml_option": ["Token"]
     }
 }
