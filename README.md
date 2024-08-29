@@ -1,7 +1,7 @@
 # Archipelago Manual for Super Street Fighter 2
 
 ## Welcome!
-Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I will review other versions later to ensure that all my checks are compatible, as some modes like Time Challenge may not be present everywhere. I also plan to learn about hooks in the future to further improve the YAML quality.
+Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I will review other versions later to ensure that all checks are compatible, as some modes like Time Challenge may not be present everywhere. I also plan to learn about hooks in the future to further improve the YAML quality.
 
 ## Project Status
 This project has completed its **Alpha** phase and is now in **Beta**. It is functional, with many optimizations and additional features underway. Your feedback and contributions are still highly valued as they help further improve the manual and fix potential issues. Each Beta release is tested at least once before being uploaded to GitHub, but as no system is infallible, please do not hesitate to report any errors.
@@ -12,16 +12,30 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 - **Time Challenge Mode - ALL CLEARS**: Defeat all opponents in Time Challenge Mode.
 - **ALL CLEARS + TOKENS**: Achieve all objectives and collect tokens.
 
+## Future Features (not guaranteed)
+- Adding character-specific techniques to the item pool.
+- Implementing a requirement to win a round for each special technique.
+
 ## Patch Notes
+
+### Version 0.3.1
+
+#### Removals
+- Removed 3 checks that were inadvertently left after the re-categorization of each character.
+
+#### Additions
+- Added a new "Special" category in the checks.
+- Introduced 3 new checks to replace the removed ones.
+
 ### Version 0.3.0
 
 #### Modifications
-- Corrected the "CPU Time Challenge" category by removing the capital "I" from "Time".
+- Corrected the "CPU Time Challenge" category by removing the unnecessary capital "I" in "Time".
 
 #### Additions
-- Added new YAML categories for more options during seed creation.
-- Added a "token" category in `game.json` with a value of 0 to enable token removal from the pool (still in progress).
-- Created checks for each character, including every combat, bonus stage, and fun checks based on the general lore of the series, not necessarily the game.
+- Added new YAML categories for more flexible seed creation options.
+- Added a "token" category in `game.json` with a value of 0 to allow for token removal from the pool (still in progress).
+- Created checks for each character, covering all combats, bonus stages, and additional fun checks based on the series' general lore, not strictly the game.
 
 #### Known Issues
 - No issues have been identified yet, as the seed has not been tested in a multiworld environment.
@@ -39,14 +53,14 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 - Renamed the "Defeated" category to "Defeated in Super Battle Mode".
 - Added checks for the "Defeated in Time Challenge" category.
 - Changed the goal "All Characters Complete!" to "Super Battle Mode - ALL CLEARS".
-- Introduced the goals "Time Challenge Mode - ALL CLEARS" and "ALL CLEARS + TOKENS".
+- Introduced new goals: "Time Challenge Mode - ALL CLEARS" and "ALL CLEARS + TOKENS".
 - Updated and added goals in the .yaml configuration.
 - Randomized starting items in "Game Mode" and "CPU Time Challenge" in `game.json`.
 - Updated and added necessary requirements.
 - Increased the token count to 20.
 
 #### Known Bugs
-- During challenge check generation, the system does not account for the executable status. Currently, this is addressed by requiring "Super Battle," but ideally, it should also support an OR condition for "Time Challenge" + the dedicated character.
+- During challenge check generation, the system does not account for the executable status. Currently, this is addressed by requiring "Super Battle," but ideally, it should support an OR condition for "Time Challenge" + the dedicated character.
 
 ### Version 0.1.0
 - Removed the "Character Battles" goal.

@@ -2698,6 +2698,36 @@
         ]
     },
     {
+        "name": "Shadaloo's Conquest - Win Super Battle mode with the Four Shadaloo Bosses",
+        "category": ["Special"],
+        "requires": [
+            "Balrog [Player]",
+            "Vega [Player]",
+            "Sagat [Player]",
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Justice League - Finish the Super Battle mode with Guile, Cammy, and Chun-Li",
+        "category": ["Special"],
+        "requires": [
+            "Cammy [Player]",
+            "Chun-Li [Player]",
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Ado's School of Fighting - Beat the GSuper Battle mode with Ken and Ryu",
+        "category": ["Special"],
+        "requires": [
+            "Ken [Player]",
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
         "name": "Defeat - Ryu in Super Battle Mode",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
@@ -2899,30 +2929,6 @@
         "requires": [
             "M.Bison [CPU for Time Challenge]",
             "Time Challenge"
-        ]
-    },
-    {
-        "name": "Beat Ryu with Sagat",
-        "category": ["Challenge"],
-        "requires": [
-            "Sagat [Player]",
-            "Super Battle"
-        ]
-    },
-    {
-        "name": "Beat Chun-Li with Cammy",
-        "category": ["Challenge"],
-        "requires": [
-            "Cammy [Player]",
-            "Super Battle"
-        ]
-    },
-    {
-        "name": "Beat E.Honda with Zangief",
-        "category": ["Challenge"],
-        "requires": [
-            "Zangief [Player]",
-            "Super Battle"
         ]
     },
     {
