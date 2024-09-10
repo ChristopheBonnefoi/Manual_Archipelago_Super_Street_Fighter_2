@@ -18,7 +18,10 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 
 ## Patch Notes
 
-### Version 0.3.1
+### Version 0.3.2:
+- Renamed all checks to have the player's name first and added bonus checks 1, 2, and 3 cleared without necessarily getting a perfect score.
+
+### Version 0.3.1:
 
 #### Removals
 - Removed 3 checks that were inadvertently left after the re-categorization of each character.
@@ -30,7 +33,7 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 ### Version 0.3.0
 
 #### Modifications
-- Corrected the "CPU Time Challenge" category by removing the unnecessary capital "I" in "Time".
+- Corrected the "CPU Time Challenge" category by removing the unnecessary capital "I" in "Time."
 
 #### Additions
 - Added new YAML categories for more flexible seed creation options.
@@ -43,17 +46,17 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 ### Version 0.2.0
 
 #### Additions
-- Added requirements for the checks "Beat Ryu with Ken" and "Beat Ken with Ryu".
-- Renamed the "Beat the Game" category to "Super Battle Mode".
-- Changed "Get perfect" to "Get Perfect Round".
+- Added requirements for the checks "Beat Ryu with Ken" and "Beat Ken with Ryu."
+- Renamed the "Beat the Game" category to "Super Battle Mode."
+- Changed "Get perfect" to "Get Perfect Round."
 - Added checks related to the three bonus stages in the "Super Battle Mode" category.
-- Introduced new item categories: "Game Mode" and "CPU Time Challenge".
+- Introduced new item categories: "Game Mode" and "CPU Time Challenge."
 - Renamed items in the "Characters" category.
-- Renamed the "Fun" category to "Challenge".
-- Renamed the "Defeated" category to "Defeated in Super Battle Mode".
+- Renamed the "Fun" category to "Challenge."
+- Renamed the "Defeated" category to "Defeated in Super Battle Mode."
 - Added checks for the "Defeated in Time Challenge" category.
-- Changed the goal "All Characters Complete!" to "Super Battle Mode - ALL CLEARS".
-- Introduced new goals: "Time Challenge Mode - ALL CLEARS" and "ALL CLEARS + TOKENS".
+- Changed the goal "All Characters Complete!" to "Super Battle Mode - ALL CLEARS."
+- Introduced new goals: "Time Challenge Mode - ALL CLEARS" and "ALL CLEARS + TOKENS."
 - Updated and added goals in the .yaml configuration.
 - Randomized starting items in "Game Mode" and "CPU Time Challenge" in `game.json`.
 - Updated and added necessary requirements.
@@ -65,7 +68,7 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 ### Version 0.1.0
 - Removed the "Character Battles" goal.
 - Added the "SFtoken" goal and item.
-- Changed the filler item to "bandage".
+- Changed the filler item to "bandage."
 - Added various checks.
 
 ### Version 0.0.1

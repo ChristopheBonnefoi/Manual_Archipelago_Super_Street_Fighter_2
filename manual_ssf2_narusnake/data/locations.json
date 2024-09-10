@@ -1,6 +1,6 @@
 [
     {
-        "name": "Fight 1 Clear - Ryu",
+        "name": "Ryu - Fight 1 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Ryu",
+        "name": "Ryu - Fight 2 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Ryu",
+        "name": "Ryu - Fight 3 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Ryu",
+        "name": "Ryu - Bonus 1 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -32,14 +32,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Ryu",
-        "category": ["Ryu"],
-        "requires": [
-            "Ryu [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Ryu",
+        "name": "Ryu - Fight 4 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -47,7 +40,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Ryu",
+        "name": "Ryu - Fight 5 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -55,7 +48,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Ryu",
+        "name": "Ryu - Fight 6 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -63,7 +56,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Ryu",
+        "name": "Ryu - Bonus 2 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -71,7 +64,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Ryu",
+        "name": "Ryu - Fight 7 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -79,7 +72,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Ryu",
+        "name": "Ryu - Fight 8 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -87,7 +80,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Ryu",
+        "name": "Ryu - Fight 9 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -95,7 +88,7 @@
         ]
     },
     {
-        "name": "I am the grand master of karate -Beat the Game - Ryu",
+        "name": "Ryu - Bonus 3 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -103,7 +96,7 @@
         ]
     },
     {
-        "name": "Get Stun - Ryu",
+        "name": "Ryu - Fight 10 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -111,7 +104,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Ryu",
+        "name": "Ryu - Fight 11 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -119,7 +112,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Ryu",
+        "name": "Ryu - Fight 12 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -127,7 +120,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Ryu",
+        "name": "Ryu - I am the grand master of karate -Beat the Game",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -135,7 +128,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Ryu",
+        "name": "Ryu - Get Stun",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -143,7 +136,7 @@
         ]
     },
     {
-        "name": "Masters of Hadoken - Beat Ken with Ryu",
+        "name": "Ryu - Get Perfect Round",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -151,7 +144,7 @@
         ]
     },
     {
-        "name": "You Were Losing, I Think - Beat Vega with Ryu",
+        "name": "Ryu - Get Perfect Bonus 1",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -159,7 +152,7 @@
         ]
     },
     {
-        "name": "Scar of Honor - Beat Sagat with Ryu",
+        "name": "Ryu - Get Perfect Bonus 2",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -167,7 +160,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - E.Honda",
+        "name": "Ryu - Get Perfect Bonus 3",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ken with Ryu - Masters of Hadoken",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Vega with Ryu - You Were Losing, I Think",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Sagat with Ryu - Scar of Honor",
+        "category": ["Ryu"],
+        "requires": [
+            "Ryu [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "E.Honda - Fight 1 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -175,7 +200,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - E.Honda",
+        "name": "E.Honda - Fight 2 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -183,7 +208,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - E.Honda",
+        "name": "E.Honda - Fight 3 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -191,7 +216,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - E.Honda",
+        "name": "E.Honda - Bonus 1 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -199,14 +224,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - E.Honda",
-        "category": ["E.Honda"],
-        "requires": [
-            "E.Honda [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - E.Honda",
+        "name": "E.Honda - Fight 4 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -214,7 +232,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - E.Honda",
+        "name": "E.Honda - Fight 5 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -222,7 +240,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - E.Honda",
+        "name": "E.Honda - Fight 6 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -230,7 +248,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - E.Honda",
+        "name": "E.Honda - Bonus 2 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -238,7 +256,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - E.Honda",
+        "name": "E.Honda - Fight 7 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -246,7 +264,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - E.Honda",
+        "name": "E.Honda - Fight 8 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -254,7 +272,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - E.Honda",
+        "name": "E.Honda - Fight 9 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -262,7 +280,7 @@
         ]
     },
     {
-        "name": "World’s Strongest Sumo - Beat the Game - E.Honda",
+        "name": "E.Honda - Bonus 3 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -270,7 +288,7 @@
         ]
     },
     {
-        "name": "Get Stun - E.Honda",
+        "name": "E.Honda - Fight 10 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -278,7 +296,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - E.Honda",
+        "name": "E.Honda - Fight 11 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -286,7 +304,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - E.Honda",
+        "name": "E.Honda - Fight 12 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -294,7 +312,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - E.Honda",
+        "name": "Beat the Game - E.Honda - World’s Strongest Sumo",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -302,7 +320,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - E.Honda",
+        "name": "E.Honda - Get Stun",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -310,7 +328,7 @@
         ]
     },
     {
-        "name": "Monster Fight Showdown - Beat Zangief with E.Honda",
+        "name": "E.Honda - Get Perfect Round",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -318,7 +336,7 @@
         ]
     },
     {
-        "name": "Japanese Duel - Defeat Ryu with E. Honda",
+        "name": "E.Honda - Get Perfect Bonus 1",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -326,7 +344,7 @@
         ]
     },
     {
-        "name": "City Hunter Clash - Defeat Ken with E. Honda",
+        "name": "E.Honda - Get Perfect Bonus 2",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -334,7 +352,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Blanka",
+        "name": "E.Honda - Get Perfect Bonus 3",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Zangief with E.Honda - Monster Fight Showdown",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Defeat Ryu with E. Honda - Japanese Duel",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Defeat Ken with E. Honda - City Hunter Clash",
+        "category": ["E.Honda"],
+        "requires": [
+            "E.Honda [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Blanka - Fight 1 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -342,7 +392,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Blanka",
+        "name": "Blanka - Fight 2 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -350,7 +400,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Blanka",
+        "name": "Blanka - Fight 3 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -358,7 +408,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Blanka",
+        "name": "Blanka - Bonus 1 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -366,14 +416,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Blanka",
-        "category": ["Blanka"],
-        "requires": [
-            "Blanka [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Blanka",
+        "name": "Blanka - Fight 4 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -381,7 +424,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Blanka",
+        "name": "Blanka - Fight 5 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -389,7 +432,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Blanka",
+        "name": "Blanka - Fight 6 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -397,7 +440,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Blanka",
+        "name": "Blanka - Bonus 2 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -405,7 +448,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Blanka",
+        "name": "Blanka - Fight 7 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -413,7 +456,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Blanka",
+        "name": "Blanka - Fight 8 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -421,7 +464,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Blanka",
+        "name": "Blanka - Fight 9 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -429,7 +472,7 @@
         ]
     },
     {
-        "name": "Mother’s Embrace - Beat the Game - Blanka",
+        "name": "Blanka - Bonus 3 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -437,7 +480,7 @@
         ]
     },
     {
-        "name": "Get Stun - Blanka",
+        "name": "Blanka - Fight 10 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -445,7 +488,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Blanka",
+        "name": "Blanka - Fight 11 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -453,7 +496,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Blanka",
+        "name": "Blanka - Fight 12 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -461,7 +504,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Blanka",
+        "name": "Beat the Game - Blanka - Mother’s Embrace",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -469,7 +512,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Blanka",
+        "name": "Blanka - Get Stun",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -477,7 +520,7 @@
         ]
     },
     {
-        "name": "Jungle Power - Beat Zangief with Blanka",
+        "name": "Blanka - Get Perfect Round",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -485,7 +528,7 @@
         ]
     },
     {
-        "name": "Battle for Redemption - Beat Cammy with Blanka",
+        "name": "Blanka - Get Perfect Bonus 1",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -493,7 +536,7 @@
         ]
     },
     {
-        "name": "Humanity's Touch - Beat Dhalsim with Blanka",
+        "name": "Blanka - Get Perfect Bonus 2",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -501,7 +544,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Guile",
+        "name": "Blanka - Get Perfect Bonus 3",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Zangief with Blanka - Jungle Power",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with Blanka - Battle for Redemption",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Dhalsim with Blanka - Humanity's Touch",
+        "category": ["Blanka"],
+        "requires": [
+            "Blanka [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Guile - Fight 1 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -509,7 +584,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Guile",
+        "name": "Guile - Fight 2 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -517,7 +592,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Guile",
+        "name": "Guile - Fight 3 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -525,7 +600,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Guile",
+        "name": "Guile - Bonus 1 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -533,14 +608,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Guile",
-        "category": ["Guile"],
-        "requires": [
-            "Guile [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Guile",
+        "name": "Guile - Fight 4 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -548,7 +616,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Guile",
+        "name": "Guile - Fight 5 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -556,7 +624,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Guile",
+        "name": "Guile - Fight 6 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -564,7 +632,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Guile",
+        "name": "Guile - Bonus 2 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -572,7 +640,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Guile",
+        "name": "Guile - Fight 7 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -580,7 +648,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Guile",
+        "name": "Guile - Fight 8 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -588,7 +656,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Guile",
+        "name": "Guile - Fight 9 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -596,7 +664,7 @@
         ]
     },
     {
-        "name": "Vengeance Relinquished - Beat the Game - Guile",
+        "name": "Guile - Bonus 3 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -604,7 +672,7 @@
         ]
     },
     {
-        "name": "Get Stun - Guile",
+        "name": "Guile - Fight 10 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -612,7 +680,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Guile",
+        "name": "Guile - Fight 11 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -620,7 +688,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Guile",
+        "name": "Guile - Fight 12 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -628,7 +696,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Guile",
+        "name": "Beat the Game - Guile - Vengeance Relinquished",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -636,7 +704,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Guile",
+        "name": "Guile - Get Stun",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -644,7 +712,7 @@
         ]
     },
     {
-        "name": "Ideological Warfare - Beat Zangief with Guile",
+        "name": "Guile - Get Perfect Round",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -652,7 +720,7 @@
         ]
     },
     {
-        "name": "Training Day - Beat Cammy with Guile",
+        "name": "Guile - Get Perfect Bonus 1",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -660,7 +728,7 @@
         ]
     },
     {
-        "name": "This is the Collection Agency, Bison. Your Ass is Six Months Overdue, and It's Mine. - Beat M.Bison with Guile",
+        "name": "Guile - Get Perfect Bonus 2",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -668,7 +736,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - T.Hawk",
+        "name": "Guile - Get Perfect Bonus 3",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Zangief with Guile - Ideological Warfare",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with Guile - Training Day",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat M.Bison with Guile - This is the Collection Agency, Bison. Your Ass is Six Months Overdue, and It's Mine.",
+        "category": ["Guile"],
+        "requires": [
+            "Guile [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "T.Hawk - Fight 1 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -676,7 +776,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 2 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -684,7 +784,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 3 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -692,7 +792,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - T.Hawk",
+        "name": "T.Hawk - Bonus 1 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -700,14 +800,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - T.Hawk",
-        "category": ["T.Hawk"],
-        "requires": [
-            "T.Hawk [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 4 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -715,7 +808,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 5 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -723,7 +816,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 6 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -731,7 +824,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - T.Hawk",
+        "name": "T.Hawk - Bonus 2 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -739,7 +832,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 7 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -747,7 +840,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 8 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -755,7 +848,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - T.Hawk",
+        "name": "T.Hawk - Fight 9 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -763,7 +856,7 @@
         ]
     },
     {
-        "name": "Restored Heritage - Beat the Game - T.Hawk",
+        "name": "T.Hawk - Bonus 3 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -771,7 +864,7 @@
         ]
     },
     {
-        "name": "Get Stun - T.Hawk",
+        "name": "T.Hawk - Fight 10 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -779,7 +872,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - T.Hawk",
+        "name": "T.Hawk - Fight 11 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -787,7 +880,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - T.Hawk",
+        "name": "T.Hawk - Fight 12 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -795,7 +888,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - T.Hawk",
+        "name": "Beat the Game - T.Hawk - Restored Heritage",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -803,7 +896,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - T.Hawk",
+        "name": "T.Hawk - Get Stun",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -811,7 +904,7 @@
         ]
     },
     {
-        "name": "Clash of the Titans - Beat Zangief with T.Hawk",
+        "name": "T.Hawk - Get Perfect Round",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -819,7 +912,7 @@
         ]
     },
     {
-        "name": "Spiritual Showdown - Beat Dhalsim with T.Hawk",
+        "name": "T.Hawk - Get Perfect Bonus 1",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -827,7 +920,7 @@
         ]
     },
     {
-        "name": "Sky Power - Beat Cammy with T.Hawk",
+        "name": "T.Hawk - Get Perfect Bonus 2",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -835,7 +928,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Fei Long",
+        "name": "T.Hawk - Get Perfect Bonus 3",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Zangief with T.Hawk - Clash of the Titans",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Dhalsim with T.Hawk - Spiritual Showdown",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with T.Hawk - Sky Power",
+        "category": ["T.Hawk"],
+        "requires": [
+            "T.Hawk [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Fei Long - Fight 1 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -843,7 +968,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Fei Long",
+        "name": "Fei Long - Fight 2 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -851,7 +976,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Fei Long",
+        "name": "Fei Long - Fight 3 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -859,7 +984,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Fei Long",
+        "name": "Fei Long - Bonus 1 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -867,14 +992,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Fei Long",
-        "category": ["Fei Long"],
-        "requires": [
-            "Fei Long [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Fei Long",
+        "name": "Fei Long - Fight 4 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -882,7 +1000,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Fei Long",
+        "name": "Fei Long - Fight 5 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -890,7 +1008,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Fei Long",
+        "name": "Fei Long - Fight 6 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -898,7 +1016,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Fei Long",
+        "name": "Fei Long - Bonus 2 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -906,7 +1024,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Fei Long",
+        "name": "Fei Long - Fight 7 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -914,7 +1032,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Fei Long",
+        "name": "Fei Long - Fight 8 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -922,7 +1040,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Fei Long",
+        "name": "Fei Long - Fight 9 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -930,7 +1048,7 @@
         ]
     },
     {
-        "name": "Path of the True Warrior - Beat the Game - Fei Long",
+        "name": "Fei Long - Bonus 3 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -938,7 +1056,7 @@
         ]
     },
     {
-        "name": "Get Stun - Fei Long",
+        "name": "Fei Long - Fight 10 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -946,7 +1064,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Fei Long",
+        "name": "Fei Long - Fight 11 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -954,7 +1072,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Fei Long",
+        "name": "Fei Long - Fight 12 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -962,7 +1080,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Fei Long",
+        "name": "Beat the Game - Fei Long - Path of the True Warrior",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -970,7 +1088,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Fei Long",
+        "name": "Fei Long - Get Stun",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -978,7 +1096,7 @@
         ]
     },
     {
-        "name": "Duel of Discipline - Beat Ryu with Fei Long",
+        "name": "Fei Long - Get Perfect Round",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -986,7 +1104,7 @@
         ]
     },
     {
-        "name": "Clash of the Dragons - Beat Chun-Li with Fei Long",
+        "name": "Fei Long - Get Perfect Bonus 1",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -994,7 +1112,7 @@
         ]
     },
     {
-        "name": "Big Boss Showdown - Beat Sagat with Fei Long",
+        "name": "Fei Long - Get Perfect Bonus 2",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1002,7 +1120,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Ken",
+        "name": "Fei Long - Get Perfect Bonus 3",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ryu with Fei Long - Duel of Discipline",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Chun-Li with Fei Long - Clash of the Dragons",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Sagat with Fei Long - Big Boss Showdown",
+        "category": ["Fei Long"],
+        "requires": [
+            "Fei Long [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Ken - Fight 1 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1010,7 +1160,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Ken",
+        "name": "Ken - Fight 2 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1018,7 +1168,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Ken",
+        "name": "Ken - Fight 3 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1026,7 +1176,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Ken",
+        "name": "Ken - Bonus 1 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1034,14 +1184,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Ken",
-        "category": ["Ken"],
-        "requires": [
-            "Ken [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Ken",
+        "name": "Ken - Fight 4 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1049,7 +1192,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Ken",
+        "name": "Ken - Fight 5 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1057,7 +1200,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Ken",
+        "name": "Ken - Fight 6 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1065,7 +1208,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Ken",
+        "name": "Ken - Bonus 2 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1073,7 +1216,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Ken",
+        "name": "Ken - Fight 7 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1081,7 +1224,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Ken",
+        "name": "Ken - Fight 8 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1089,7 +1232,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Ken",
+        "name": "Ken - Fight 9 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1097,7 +1240,7 @@
         ]
     },
     {
-        "name": "Wedding Bells Victory - Beat the Game - Ken",
+        "name": "Ken - Bonus 3 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1105,7 +1248,7 @@
         ]
     },
     {
-        "name": "Get Stun - Ken",
+        "name": "Ken - Fight 10 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1113,7 +1256,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Ken",
+        "name": "Ken - Fight 11 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1121,7 +1264,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Ken",
+        "name": "Ken - Fight 12 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1129,7 +1272,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Ken",
+        "name": "Beat the Game - Ken - Wedding Bells Victory",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1137,7 +1280,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Ken",
+        "name": "Ken - Get Stun",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1145,7 +1288,7 @@
         ]
     },
     {
-        "name": "Eternal Rivals - Beat Ryu with Ken",
+        "name": "Ken - Get Perfect Round",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1153,7 +1296,7 @@
         ]
     },
     {
-        "name": "Defender of Love - Beat Vega with Ken",
+        "name": "Ken - Get Perfect Bonus 1",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1161,7 +1304,7 @@
         ]
     },
     {
-        "name": "Glad I met you. I could have turned out like you. - Beat Sagat with Ken",
+        "name": "Ken - Get Perfect Bonus 2",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1169,7 +1312,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Chun-Li",
+        "name": "Ken - Get Perfect Bonus 3",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ryu with Ken - Eternal Rivals",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Vega with Ken - Defender of Love",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Sagat with Ken - Glad I met you. I could have turned out like you.",
+        "category": ["Ken"],
+        "requires": [
+            "Ken [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Chun-Li - Fight 1 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1177,7 +1352,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 2 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1185,7 +1360,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 3 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1193,7 +1368,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Chun-Li",
+        "name": "Chun-Li - Bonus 1 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1201,14 +1376,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Chun-Li",
-        "category": ["Chun-Li"],
-        "requires": [
-            "Chun-Li [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 4 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1216,7 +1384,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 5 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1224,7 +1392,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 6 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1232,7 +1400,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Chun-Li",
+        "name": "Chun-Li - Bonus 2 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1240,7 +1408,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 7 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1248,7 +1416,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 8 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1256,7 +1424,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Chun-Li",
+        "name": "Chun-Li - Fight 9 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1264,7 +1432,7 @@
         ]
     },
     {
-        "name": "Justice for the Fallen - Beat the Game with Chun-Li",
+        "name": "Chun-Li - Bonus 3 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1272,7 +1440,7 @@
         ]
     },
     {
-        "name": "Get Stun - Chun-Li",
+        "name": "Chun-Li - Fight 10 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1280,7 +1448,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Chun-Li",
+        "name": "Chun-Li - Fight 11 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1288,7 +1456,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Chun-Li",
+        "name": "Chun-Li - Fight 12 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1296,7 +1464,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Chun-Li",
+        "name": "Beat the Game with Chun-Li - Justice for the Fallen",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1304,7 +1472,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Chun-Li",
+        "name": "Chun-Li - Get Stun",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1312,7 +1480,7 @@
         ]
     },
     {
-        "name": "Beauty and the Beast - Beat Vega with Chun-Li",
+        "name": "Chun-Li - Get Perfect Round",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1320,7 +1488,7 @@
         ]
     },
     {
-        "name": "Father, I Have Avenged You - Beat M.Bison with Chun-Li",
+        "name": "Chun-Li - Get Perfect Bonus 1",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1328,7 +1496,7 @@
         ]
     },
     {
-        "name": "Interpol Alliance - Beat Guile with Chun-Li",
+        "name": "Chun-Li - Get Perfect Bonus 2",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1336,7 +1504,7 @@
         ]
     },
     {
-        "name": "Beauty Battle - Beat Cammy with Chun-Li",
+        "name": "Chun-Li - Get Perfect Bonus 3",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1344,7 +1512,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Zangief",
+        "name": "Beat Vega with Chun-Li - Beauty and the Beast",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat M.Bison with Chun-Li - Father, I Have Avenged You",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Guile with Chun-Li - Interpol Alliance",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with Chun-Li - Beauty Battle",
+        "category": ["Chun-Li"],
+        "requires": [
+            "Chun-Li [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Zangief - Fight 1 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1352,7 +1552,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Zangief",
+        "name": "Zangief - Fight 2 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1360,7 +1560,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Zangief",
+        "name": "Zangief - Fight 3 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1368,7 +1568,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Zangief",
+        "name": "Zangief - Bonus 1 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1376,14 +1576,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Zangief",
-        "category": ["Zangief"],
-        "requires": [
-            "Zangief [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Zangief",
+        "name": "Zangief - Fight 4 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1391,7 +1584,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Zangief",
+        "name": "Zangief - Fight 5 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1399,7 +1592,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Zangief",
+        "name": "Zangief - Fight 6 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1407,7 +1600,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Zangief",
+        "name": "Zangief - Bonus 2 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1415,7 +1608,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Zangief",
+        "name": "Zangief - Fight 7 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1423,7 +1616,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Zangief",
+        "name": "Zangief - Fight 8 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1431,7 +1624,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Zangief",
+        "name": "Zangief - Fight 9 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1439,7 +1632,7 @@
         ]
     },
     {
-        "name": "Patriot's Triumph - Beat the Game with Zangief",
+        "name": "Zangief - Bonus 3 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1447,7 +1640,7 @@
         ]
     },
     {
-        "name": "Get Stun - Zangief",
+        "name": "Zangief - Fight 10 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1455,7 +1648,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Zangief",
+        "name": "Zangief - Fight 11 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1463,7 +1656,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Zangief",
+        "name": "Zangief - Fight 12 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1471,7 +1664,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Zangief",
+        "name": "Beat the Game with Zangief - Patriot's Triumph",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1479,7 +1672,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Zangief",
+        "name": "Zangief - Get Stun",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1487,7 +1680,7 @@
         ]
     },
     {
-        "name": "Clash of Strength - Beat E.Honda with Zangief",
+        "name": "Zangief - Get Perfect Round",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1495,7 +1688,7 @@
         ]
     },
     {
-        "name": "Fur-ocious Battle - Beat Blanka with Zangief",
+        "name": "Zangief - Get Perfect Bonus 1",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1503,7 +1696,7 @@
         ]
     },
     {
-        "name": "Cold War Clash - Beat Guile with Zangief",
+        "name": "Zangief - Get Perfect Bonus 2",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1511,7 +1704,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Dhalsim ",
+        "name": "Zangief - Get Perfect Bonus 3",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat E.Honda with Zangief - Clash of Strength",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Blanka with Zangief - Fur-ocious Battle",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Guile with Zangief - Cold War Clash",
+        "category": ["Zangief"],
+        "requires": [
+            "Zangief [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Dhalsim  - Fight 1 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1519,7 +1744,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 2 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1527,7 +1752,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 3 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1535,7 +1760,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Dhalsim ",
+        "name": "Dhalsim  - Bonus 1 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1543,14 +1768,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Dhalsim ",
-        "category": ["Dhalsim"],
-        "requires": [
-            "Dhalsim [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 4 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1558,7 +1776,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 5 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1566,7 +1784,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 6 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1574,7 +1792,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Dhalsim ",
+        "name": "Dhalsim  - Bonus 2 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1582,7 +1800,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 7 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1590,7 +1808,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 8 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1598,7 +1816,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Dhalsim ",
+        "name": "Dhalsim  - Fight 9 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1606,7 +1824,7 @@
         ]
     },
     {
-        "name": "Zenith of Yoga - Beat the Game with Dhalsim ",
+        "name": "Dhalsim  - Bonus 3 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1614,7 +1832,7 @@
         ]
     },
     {
-        "name": "Get Stun - Dhalsim ",
+        "name": "Dhalsim  - Fight 10 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1622,7 +1840,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Dhalsim ",
+        "name": "Dhalsim  - Fight 11 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1630,7 +1848,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Dhalsim ",
+        "name": "Dhalsim  - Fight 12 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1638,7 +1856,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Dhalsim ",
+        "name": "Beat the Game with Dhalsim  - Zenith of Yoga",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1646,7 +1864,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Dhalsim ",
+        "name": "Dhalsim  - Get Stun",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1654,7 +1872,7 @@
         ]
     },
     {
-        "name": "Heavyweight vs. Lightweight - Beat E. Honda with Dhalsim",
+        "name": "Dhalsim  - Get Perfect Round",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1662,7 +1880,7 @@
         ]
     },
     {
-        "name": "Beyond the Monster - Beat Blanka with Dhalsim",
+        "name": "Dhalsim  - Get Perfect Bonus 1",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1670,7 +1888,7 @@
         ]
     },
     {
-        "name": "One Bald Punch - Beat Sagat with Dhalsim",
+        "name": "Dhalsim  - Get Perfect Bonus 2",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1678,7 +1896,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Cammy",
+        "name": "Dhalsim  - Get Perfect Bonus 3",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat E. Honda with Dhalsim - Heavyweight vs. Lightweight",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Blanka with Dhalsim - Beyond the Monster",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Sagat with Dhalsim - One Bald Punch",
+        "category": ["Dhalsim"],
+        "requires": [
+            "Dhalsim [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Cammy - Fight 1 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1686,7 +1936,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Cammy",
+        "name": "Cammy - Fight 2 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1694,7 +1944,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Cammy",
+        "name": "Cammy - Fight 3 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1702,7 +1952,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Cammy",
+        "name": "Cammy - Bonus 1 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1710,14 +1960,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Cammy",
-        "category": ["Cammy"],
-        "requires": [
-            "Cammy [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Cammy",
+        "name": "Cammy - Fight 4 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1725,7 +1968,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Cammy",
+        "name": "Cammy - Fight 5 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1733,7 +1976,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Cammy",
+        "name": "Cammy - Fight 6 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1741,7 +1984,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Cammy",
+        "name": "Cammy - Bonus 2 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1749,7 +1992,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Cammy",
+        "name": "Cammy - Fight 7 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1757,7 +2000,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Cammy",
+        "name": "Cammy - Fight 8 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1765,7 +2008,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Cammy",
+        "name": "Cammy - Fight 9 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1773,7 +2016,7 @@
         ]
     },
     {
-        "name": "Awakening from the Shadows - Beat the Game with Cammy",
+        "name": "Cammy - Bonus 3 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1781,7 +2024,7 @@
         ]
     },
     {
-        "name": "Get Stun - Cammy",
+        "name": "Cammy - Fight 10 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1789,7 +2032,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Cammy",
+        "name": "Cammy - Fight 11 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1797,7 +2040,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Cammy",
+        "name": "Cammy - Fight 12 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1805,7 +2048,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Cammy",
+        "name": "Beat the Game with Cammy - Awakening from the Shadows",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1813,7 +2056,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Cammy",
+        "name": "Cammy - Get Stun",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1821,7 +2064,7 @@
         ]
     },
     {
-        "name": "I'm Not Your Doll - Beat M. Bison with Cammy",
+        "name": "Cammy - Get Perfect Round",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1829,7 +2072,7 @@
         ]
     },
     {
-        "name": "Femme Fatale Face-off - Beat Chun-Li with Cammy",
+        "name": "Cammy - Get Perfect Bonus 1",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1837,7 +2080,7 @@
         ]
     },
     {
-        "name": "Delta Force vs. Air Force - Beat Guile with Cammy",
+        "name": "Cammy - Get Perfect Bonus 2",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1845,16 +2088,47 @@
         ]
     },
     {
-        "name": "Battle of the Braids - Beat Vega with Cammy",
+        "name": "Cammy - Get Perfect Bonus 3",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
             "Super Battle"
         ]
     },
-
     {
-        "name": "Fight 1 Clear - Dee Jay",
+        "name": "Beat M. Bison with Cammy - I'm Not Your Doll",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Chun-Li with Cammy - Femme Fatale Face-off",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Guile with Cammy - Delta Force vs. Air Force",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Vega with Cammy - Battle of the Braids",
+        "category": ["Cammy"],
+        "requires": [
+            "Cammy [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Dee Jay - Fight 1 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1862,7 +2136,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 2 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1870,7 +2144,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 3 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1878,7 +2152,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Dee Jay",
+        "name": "Dee Jay - Bonus 1 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1886,14 +2160,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Dee Jay",
-        "category": ["Dee Jay"],
-        "requires": [
-            "Dee Jay [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 4 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1901,7 +2168,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 5 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1909,7 +2176,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 6 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1917,7 +2184,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Dee Jay",
+        "name": "Dee Jay - Bonus 2 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1925,7 +2192,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 7 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1933,7 +2200,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 8 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1941,7 +2208,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Dee Jay",
+        "name": "Dee Jay - Fight 9 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1949,7 +2216,7 @@
         ]
     },
     {
-        "name": "Rhythm of Victory - Beat the Game with Dee Jay",
+        "name": "Dee Jay - Bonus 3 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1957,7 +2224,7 @@
         ]
     },
     {
-        "name": "Get Stun - Dee Jay",
+        "name": "Dee Jay - Fight 10 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1965,7 +2232,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Dee Jay",
+        "name": "Dee Jay - Fight 11 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1973,7 +2240,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Dee Jay",
+        "name": "Dee Jay - Fight 12 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1981,7 +2248,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Dee Jay",
+        "name": "Beat the Game with Dee Jay - Rhythm of Victory",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -1989,7 +2256,39 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Dee Jay",
+        "name": "Dee Jay - Get Stun",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Dee Jay - Get Perfect Round",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Dee Jay - Get Perfect Bonus 1",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Dee Jay - Get Perfect Bonus 2",
+        "category": ["Dee Jay"],
+        "requires": [
+            "Dee Jay [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Dee Jay - Get Perfect Bonus 3",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2020,9 +2319,8 @@
             "Super Battle"
         ]
     },
-
     {
-        "name": "Fight 1 Clear - Balrog",
+        "name": "Balrog - Fight 1 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2030,7 +2328,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Balrog",
+        "name": "Balrog - Fight 2 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2038,7 +2336,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Balrog",
+        "name": "Balrog - Fight 3 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2046,7 +2344,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Balrog",
+        "name": "Balrog - Bonus 1 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2054,14 +2352,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Balrog",
-        "category": ["Balrog"],
-        "requires": [
-            "Balrog [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Balrog",
+        "name": "Balrog - Fight 4 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2069,7 +2360,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Balrog",
+        "name": "Balrog - Fight 5 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2077,7 +2368,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Balrog",
+        "name": "Balrog - Fight 6 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2085,7 +2376,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Balrog",
+        "name": "Balrog - Bonus 2 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2093,7 +2384,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Balrog",
+        "name": "Balrog - Fight 7 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2101,7 +2392,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Balrog",
+        "name": "Balrog - Fight 8 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2109,7 +2400,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Balrog",
+        "name": "Balrog - Fight 9 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2117,7 +2408,7 @@
         ]
     },
     {
-        "name": "Greed's Reward - Beat the Game with Balrog",
+        "name": "Balrog - Bonus 3 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2125,7 +2416,7 @@
         ]
     },
     {
-        "name": "Get Stun - Balrog",
+        "name": "Balrog - Fight 10 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2133,7 +2424,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Balrog",
+        "name": "Balrog - Fight 11 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2141,7 +2432,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Balrog",
+        "name": "Balrog - Fight 12 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2149,7 +2440,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Balrog",
+        "name": "Beat the Game with Balrog - Greed's Reward",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2157,7 +2448,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Balrog",
+        "name": "Balrog - Get Stun",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2165,7 +2456,7 @@
         ]
     },
     {
-        "name": "After the Father, the Daughter Falls - Beat Chun-Li with Balrog",
+        "name": "Balrog - Get Perfect Round",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2173,7 +2464,7 @@
         ]
     },
     {
-        "name": "Eye of the True Tiger - Beat Sagat with Balrog",
+        "name": "Balrog - Get Perfect Bonus 1",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2181,7 +2472,7 @@
         ]
     },
     {
-        "name": "Stars and Strikes - Beat Ken with Balrog",
+        "name": "Balrog - Get Perfect Bonus 2",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2189,7 +2480,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - Vega",
+        "name": "Balrog - Get Perfect Bonus 3",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Chun-Li with Balrog - After the Father, the Daughter Falls",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Sagat with Balrog - Eye of the True Tiger",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ken with Balrog - Stars and Strikes",
+        "category": ["Balrog"],
+        "requires": [
+            "Balrog [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Vega - Fight 1 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2197,7 +2520,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Vega",
+        "name": "Vega - Fight 2 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2205,7 +2528,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Vega",
+        "name": "Vega - Fight 3 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2213,7 +2536,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Vega",
+        "name": "Vega - Bonus 1 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2221,14 +2544,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Vega",
-        "category": ["Vega"],
-        "requires": [
-            "Vega [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Vega",
+        "name": "Vega - Fight 4 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2236,7 +2552,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Vega",
+        "name": "Vega - Fight 5 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2244,7 +2560,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Vega",
+        "name": "Vega - Fight 6 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2252,7 +2568,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Vega",
+        "name": "Vega - Bonus 2 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2260,7 +2576,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Vega",
+        "name": "Vega - Fight 7 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2268,7 +2584,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Vega",
+        "name": "Vega - Fight 8 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2276,7 +2592,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Vega",
+        "name": "Vega - Fight 9 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2284,7 +2600,7 @@
         ]
     },
     {
-        "name": "Reflections of Perfection - Beat the Game with Vega",
+        "name": "Vega - Bonus 3 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2292,7 +2608,7 @@
         ]
     },
     {
-        "name": "Get Stun - Vega",
+        "name": "Vega - Fight 10 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2300,7 +2616,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Vega",
+        "name": "Vega - Fight 11 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2308,7 +2624,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Vega",
+        "name": "Vega - Fight 12 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2316,7 +2632,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Vega",
+        "name": "Beat the Game with Vega - Reflections of Perfection",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2324,7 +2640,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Vega",
+        "name": "Vega - Get Stun",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2332,7 +2648,7 @@
         ]
     },
     {
-        "name": "No Escape This Time - Beat Chun-Li with Vega",
+        "name": "Vega - Get Perfect Round",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2340,7 +2656,7 @@
         ]
     },
     {
-        "name": "Braid to Braid Combat - Beat Cammy with Vega",
+        "name": "Vega - Get Perfect Bonus 1",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2348,15 +2664,47 @@
         ]
     },
     {
-        "name": "Where Were We? - Beat Ryu with Vega",
+        "name": "Vega - Get Perfect Bonus 2",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
             "Super Battle"
         ]
-    },   
+    },
     {
-        "name": "Fight 1 Clear - Sagat",
+        "name": "Vega - Get Perfect Bonus 3",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Chun-Li with Vega - No Escape This Time",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with Vega - Braid to Braid Combat",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ryu with Vega - Where Were We?",
+        "category": ["Vega"],
+        "requires": [
+            "Vega [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Sagat - Fight 1 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2364,7 +2712,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - Sagat",
+        "name": "Sagat - Fight 2 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2372,7 +2720,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - Sagat",
+        "name": "Sagat - Fight 3 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2380,7 +2728,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - Sagat",
+        "name": "Sagat - Bonus 1 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2388,14 +2736,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - Sagat",
-        "category": ["Sagat"],
-        "requires": [
-            "Sagat [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - Sagat",
+        "name": "Sagat - Fight 4 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2403,7 +2744,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - Sagat",
+        "name": "Sagat - Fight 5 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2411,7 +2752,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - Sagat",
+        "name": "Sagat - Fight 6 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2419,7 +2760,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - Sagat",
+        "name": "Sagat - Bonus 2 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2427,7 +2768,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - Sagat",
+        "name": "Sagat - Fight 7 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2435,7 +2776,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - Sagat",
+        "name": "Sagat - Fight 8 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2443,7 +2784,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - Sagat",
+        "name": "Sagat - Fight 9 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2451,7 +2792,7 @@
         ]
     },
     {
-        "name": "The King's Unfinished Business - Beat the Game with Sagat",
+        "name": "Sagat - Bonus 3 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2459,7 +2800,7 @@
         ]
     },
     {
-        "name": "Get Stun - Sagat",
+        "name": "Sagat - Fight 10 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2467,7 +2808,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - Sagat",
+        "name": "Sagat - Fight 11 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2475,7 +2816,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - Sagat",
+        "name": "Sagat - Fight 12 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2483,7 +2824,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - Sagat",
+        "name": "Beat the Game with Sagat - The King's Unfinished Business",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2491,7 +2832,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - Sagat",
+        "name": "Sagat - Get Stun",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2499,7 +2840,7 @@
         ]
     },
     {
-        "name": "Scarred for Vengeance - Beat Ryu with Sagat",
+        "name": "Sagat - Get Perfect Round",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2507,7 +2848,7 @@
         ]
     },
     {
-        "name": "Eye of the Tiger Knee - Beat Balrog with Sagat",
+        "name": "Sagat - Get Perfect Bonus 1",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2515,7 +2856,7 @@
         ]
     },
     {
-        "name": "Tiger vs. Tyrant - Beat M.Bison with Sagat",
+        "name": "Sagat - Get Perfect Bonus 2",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2523,7 +2864,39 @@
         ]
     },
     {
-        "name": "Fight 1 Clear - M.Bison",
+        "name": "Sagat - Get Perfect Bonus 3",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Ryu with Sagat - Scarred for Vengeance",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Balrog with Sagat - Eye of the Tiger Knee",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat M.Bison with Sagat - Tiger vs. Tyrant",
+        "category": ["Sagat"],
+        "requires": [
+            "Sagat [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "M.Bison - Fight 1 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2531,7 +2904,7 @@
         ]
     },
     {
-        "name": "Fight 2 Clear - M.Bison",
+        "name": "M.Bison - Fight 2 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2539,7 +2912,7 @@
         ]
     },
     {
-        "name": "Fight 3 Clear - M.Bison",
+        "name": "M.Bison - Fight 3 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2547,7 +2920,7 @@
         ]
     },
     {
-        "name": "Fight 4 Clear - M.Bison",
+        "name": "M.Bison - Bonus 1 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2555,14 +2928,7 @@
         ]
     },
     {
-        "name": "Fight 5 Clear - M.Bison",
-        "category": ["M.Bison"],
-        "requires": [
-            "M.Bison [Player]",
-            "Super Battle"
-        ]
-    },    {
-        "name": "Fight 6 Clear - M.Bison",
+        "name": "M.Bison - Fight 4 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2570,7 +2936,7 @@
         ]
     },
     {
-        "name": "Fight 7 Clear - M.Bison",
+        "name": "M.Bison - Fight 5 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2578,7 +2944,7 @@
         ]
     },
     {
-        "name": "Fight 8 Clear - M.Bison",
+        "name": "M.Bison - Fight 6 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2586,7 +2952,7 @@
         ]
     },
     {
-        "name": "Fight 9 Clear - M.Bison",
+        "name": "M.Bison - Bonus 2 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2594,7 +2960,7 @@
         ]
     },
     {
-        "name": "Fight 10 Clear - M.Bison",
+        "name": "M.Bison - Fight 7 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2602,7 +2968,7 @@
         ]
     },
     {
-        "name": "Fight 11 Clear - M.Bison",
+        "name": "M.Bison - Fight 8 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2610,7 +2976,7 @@
         ]
     },
     {
-        "name": "Fight 12 Clear - M.Bison",
+        "name": "M.Bison - Fight 9 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2618,7 +2984,7 @@
         ]
     },
     {
-        "name": "World Conqueror - Beat the Game with M. Bison",
+        "name": "M.Bison - Bonus 1 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2626,7 +2992,7 @@
         ]
     },
     {
-        "name": "Get Stun - M.Bison",
+        "name": "M.Bison - Fight 10 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2634,7 +3000,7 @@
         ]
     },
     {
-        "name": "Get Perfect Round - M.Bison",
+        "name": "M.Bison - Fight 11 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2642,7 +3008,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 1 - M.Bison",
+        "name": "M.Bison - Fight 12 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2650,7 +3016,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 2 - M.Bison",
+        "name": "Beat the Game with M. Bison - World Conqueror",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2658,7 +3024,7 @@
         ]
     },
     {
-        "name": "Get Perfect Bonus 3 - M.Bison",
+        "name": "M.Bison - Get Stun",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2666,7 +3032,7 @@
         ]
     },
     {
-        "name": "Deny My Divinity? - Beat Guile with M. Bison",
+        "name": "M.Bison - Get Perfect Round",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2674,7 +3040,7 @@
         ]
     },
     {
-        "name": "But for Me, It Was Tuesday - Beat Chun-Li with M. Bison",
+        "name": "M.Bison - Get Perfect Bonus 1",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2682,7 +3048,7 @@
         ]
     },
     {
-        "name": "You Were the Best, But Still Just a Doll - Beat Cammy with M. Bison",
+        "name": "M.Bison - Get Perfect Bonus 2",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2690,7 +3056,7 @@
         ]
     },
     {
-        "name": "Guess Who's Not Seeing a Thing - Defeat Sagat with M. Bison",
+        "name": "M.Bison - Get Perfect Bonus 3",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2698,7 +3064,39 @@
         ]
     },
     {
-        "name": "Shadaloo's Conquest - Win Super Battle mode with the Four Shadaloo Bosses",
+        "name": "Beat Guile with M. Bison - Deny My Divinity?",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Chun-Li with M. Bison - But for Me, It Was Tuesday",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Beat Cammy with M. Bison - You Were the Best, But Still Just a Doll",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Defeat Sagat with M. Bison - Guess Who's Not Seeing a Thing",
+        "category": ["M.Bison"],
+        "requires": [
+            "M.Bison [Player]",
+            "Super Battle"
+        ]
+    },
+    {
+        "name": "Win Super Battle mode with the Four Shadaloo Bosses - Shadaloo's Conquest",
         "category": ["Special"],
         "requires": [
             "Balrog [Player]",
@@ -2709,7 +3107,7 @@
         ]
     },
     {
-        "name": "Justice League - Finish the Super Battle mode with Guile, Cammy, and Chun-Li",
+        "name": "Finish the Super Battle mode with Guile, Cammy, and Chun-Li - Justice League",
         "category": ["Special"],
         "requires": [
             "Cammy [Player]",
@@ -2719,7 +3117,7 @@
         ]
     },
     {
-        "name": "Ado's School of Fighting - Beat the GSuper Battle mode with Ken and Ryu",
+        "name": "Beat the Super Battle mode with Ken and Ryu - Ado's School of Fighting",
         "category": ["Special"],
         "requires": [
             "Ken [Player]",
@@ -2728,86 +3126,87 @@
         ]
     },
     {
-        "name": "Defeat - Ryu in Super Battle Mode",
+        "name": "Ryu in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - E.Honda  in Super Battle Mode",
+        "name": "E.Honda  in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Blanka  in Super Battle Mode",
+        "name": "Blanka  in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Guile  in Super Battle Mode",
-        "category": ["Defeated in Super Battle Mode"],
-        "requires": "|Super Battle|"
-    },    {
-        "name": "Defeat - T.Hawk in Super Battle Mode",
+        "name": "Guile  in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Fei Long in Super Battle Mode",
-        "category": ["Defeated in Super Battle Mode"],
-        "requires": "|Super Battle|"
-    },    
-    {
-        "name": "Defeat - Balrog in Super Battle Mode",
-        "category": ["Defeated in Super Battle Mode"],
-        "requires": "|Super Battle|"
-    },    
-    {
-        "name": "Defeat - Sagat in Super Battle Mode",
+        "name": "T.Hawk in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Ken in Super Battle Mode",
+        "name": "Fei Long in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Chun-Li in Super Battle Mode",
+        "name": "Balrog in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Zangief in Super Battle Mode",
+        "name": "Sagat in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Dhalsim in Super Battle Mode",
+        "name": "Ken in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Cammy in Super Battle Mode",
-        "category": ["Defeated in Super Battle Mode"],
-        "requires": "|Super Battle|"
-    },    
-    {
-        "name": "Defeat - Dee Jay in Super Battle Mode",
+        "name": "Chun-Li in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Vega in Super Battle Mode",
-        "category": ["Defeated in Super Battle Mode"],
-        "requires": "|Super Battle|"
-    },    
-    {
-        "name": "Defeat - M.Bison in Super Battle Mode",
+        "name": "Zangief in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Defeat - Ryu in Time Challenge",
+        "name": "Dhalsim in Super Battle Mode - Defeat",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Cammy in Super Battle Mode - Defeat",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Dee Jay in Super Battle Mode - Defeat",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Vega in Super Battle Mode - Defeat",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "M.Bison in Super Battle Mode - Defeat",
+        "category": ["Defeated in Super Battle Mode"],
+        "requires": "|Super Battle|"
+    },
+    {
+        "name": "Ryu in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Ryu [CPU for Time Challenge]",
@@ -2815,7 +3214,7 @@
         ]
     },
     {
-        "name": "Defeat - E.Honda  in Time Challenge",
+        "name": "E.Honda  in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "E.Honda [CPU for Time Challenge]",
@@ -2823,7 +3222,7 @@
         ]
     },
     {
-        "name": "Defeat - Blanka  in Time Challenge",
+        "name": "Blanka  in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Blanka [CPU for Time Challenge]",
@@ -2831,14 +3230,15 @@
         ]
     },
     {
-        "name": "Defeat - Guile  in Time Challenge",
+        "name": "Guile  in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Guile [CPU for Time Challenge]",
             "Time Challenge"
         ]
-    },    {
-        "name": "Defeat - T.Hawk in Time Challenge",
+    },
+    {
+        "name": "T.Hawk in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "T.Hawk [CPU for Time Challenge]",
@@ -2846,21 +3246,23 @@
         ]
     },
     {
-        "name": "Defeat - Fei Long in Time Challenge",
+        "name": "Fei Long in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Fei Long [CPU for Time Challenge]",
             "Time Challenge"
         ]
-    },    {
-        "name": "Defeat - Balrog in Time Challenge",
+    },
+    {
+        "name": "Balrog in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Balrog [CPU for Time Challenge]",
             "Time Challenge"
         ]
-    },    {
-        "name": "Defeat - Sagat in Time Challenge",
+    },
+    {
+        "name": "Sagat in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Sagat [CPU for Time Challenge]",
@@ -2868,7 +3270,7 @@
         ]
     },
     {
-        "name": "Defeat - Ken in Time Challenge",
+        "name": "Ken in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Ken [CPU for Time Challenge]",
@@ -2876,7 +3278,7 @@
         ]
     },
     {
-        "name": "Defeat - Chun-Li in Time Challenge",
+        "name": "Chun-Li in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Chun-Li [CPU for Time Challenge]",
@@ -2884,7 +3286,7 @@
         ]
     },
     {
-        "name": "Defeat - Zangief in Time Challenge",
+        "name": "Zangief in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Zangief [CPU for Time Challenge]",
@@ -2892,7 +3294,7 @@
         ]
     },
     {
-        "name": "Defeat - Dhalsim in Time Challenge",
+        "name": "Dhalsim in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Dhalsim [CPU for Time Challenge]",
@@ -2900,15 +3302,15 @@
         ]
     },
     {
-        "name": "Defeat - Cammy in Time Challenge",
+        "name": "Cammy in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Cammy [CPU for Time Challenge]",
             "Time Challenge"
         ]
-    },    
+    },
     {
-        "name": "Defeat - Dee Jay in Time Challenge",
+        "name": "Dee Jay in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Dee Jay [CPU for Time Challenge]",
@@ -2916,15 +3318,15 @@
         ]
     },
     {
-        "name": "Defeat - Vega in Time Challenge",
+        "name": "Vega in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Vega [CPU for Time Challenge]",
             "Time Challenge"
         ]
-    },    
+    },
     {
-        "name": "Defeat - M.Bison in Time Challenge",
+        "name": "M.Bison in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "M.Bison [CPU for Time Challenge]",
@@ -3026,5 +3428,5 @@
         "victory": true,
         "category": ["Goal"],
         "requires": "|Victory Token:ALL|"
-    }    
+    }
 ]
