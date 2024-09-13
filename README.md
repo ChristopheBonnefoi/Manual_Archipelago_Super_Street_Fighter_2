@@ -1,10 +1,10 @@
 # Archipelago Manual for Super Street Fighter 2
 
 ## Welcome!
-Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I will review other versions later to ensure that all checks are compatible, as some modes like Time Challenge may not be present everywhere. I also plan to learn about hooks in the future to further improve the YAML quality.
+Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I plan to review other versions later to ensure that all checks are compatible, as some modes like Time Challenge may not be present everywhere. I also intend to learn about hooks in the future to further improve the YAML quality.
 
 ## Project Status
-This project has completed its **Alpha** phase and is now in **Beta**. It is functional, with many optimizations and additional features underway. Your feedback and contributions are still highly valued as they help further improve the manual and fix potential issues. Each Beta release is tested at least once before being uploaded to GitHub, but as no system is infallible, please do not hesitate to report any errors.
+This project has completed its **Alpha** phase and is now in **Beta**. It is functional, with many optimizations and additional features underway. Your feedback and contributions are still highly valued as they help further improve the manual and fix potential issues. Each Beta release is tested at least once before being uploaded to GitHub. However, since no system is infallible, please do not hesitate to report any errors.
 
 ## Current Features
 - **Super Battle Mode - ALL CLEARS**: Players must complete the Super Battle Mode for all characters.
@@ -17,6 +17,10 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is fun
 - Implementing a requirement to win a round for each special technique.
 
 ## Patch Notes
+
+### Version 0.3.3:
+- Renamed all checks related to character battles to improve the spoiler log and item pool.
+- Renamed tokens and increased their number to 25.
 
 ### Version 0.3.2:
 - Renamed all checks to have the player's name first and added bonus checks 1, 2, and 3 cleared without necessarily getting a perfect score.

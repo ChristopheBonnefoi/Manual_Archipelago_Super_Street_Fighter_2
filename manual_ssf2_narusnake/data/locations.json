@@ -1,6 +1,6 @@
 [
     {
-        "name": "Ryu - Fight 1 Clear",
+        "name": "Ryu - Fight 01 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 2 Clear",
+        "name": "Ryu - Fight 02 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 3 Clear",
+        "name": "Ryu - Fight 03 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "name": "Ryu - Bonus 1 Clear",
+        "name": "Ryu - Bonus 01 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 4 Clear",
+        "name": "Ryu - Fight 04 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 5 Clear",
+        "name": "Ryu - Fight 05 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 6 Clear",
+        "name": "Ryu - Fight 06 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "name": "Ryu - Bonus 2 Clear",
+        "name": "Ryu - Bonus 02 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 7 Clear",
+        "name": "Ryu - Fight 07 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 8 Clear",
+        "name": "Ryu - Fight 08 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 9 Clear",
+        "name": "Ryu - Fight 09 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "name": "Ryu - Bonus 3 Clear",
+        "name": "Ryu - Bonus 03 Clear",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "name": "Ryu - Fight 11 Clear",
+        "name": "Ryu - Fight 11 Clear",  
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "name": "Ryu - Get Perfect Bonus 1",
+        "name": "Ryu - Get Perfect Bonus 01",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "name": "Ryu - Get Perfect Bonus 2",
+        "name": "Ryu - Get Perfect Bonus 02",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "name": "Ryu - Get Perfect Bonus 3",
+        "name": "Ryu - Get Perfect Bonus 03",
         "category": ["Ryu"],
         "requires": [
             "Ryu [Player]",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 1 Clear",
+        "name": "E.Honda - Fight 01 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -200,7 +200,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 2 Clear",
+        "name": "E.Honda - Fight 02 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 3 Clear",
+        "name": "E.Honda - Fight 03 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "name": "E.Honda - Bonus 1 Clear",
+        "name": "E.Honda - Bonus 01 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 4 Clear",
+        "name": "E.Honda - Fight 04 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -232,7 +232,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 5 Clear",
+        "name": "E.Honda - Fight 05 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 6 Clear",
+        "name": "E.Honda - Fight 06 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "name": "E.Honda - Bonus 2 Clear",
+        "name": "E.Honda - Bonus 02 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -256,7 +256,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 7 Clear",
+        "name": "E.Honda - Fight 07 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 8 Clear",
+        "name": "E.Honda - Fight 08 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -272,7 +272,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 9 Clear",
+        "name": "E.Honda - Fight 09 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "name": "E.Honda - Bonus 3 Clear",
+        "name": "E.Honda - Bonus 03 Clear",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -296,7 +296,7 @@
         ]
     },
     {
-        "name": "E.Honda - Fight 11 Clear",
+        "name": "E.Honda - Fight 11 Clear",  
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "name": "E.Honda - Get Perfect Bonus 1",
+        "name": "E.Honda - Get Perfect Bonus 01",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "name": "E.Honda - Get Perfect Bonus 2",
+        "name": "E.Honda - Get Perfect Bonus 02",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "name": "E.Honda - Get Perfect Bonus 3",
+        "name": "E.Honda - Get Perfect Bonus 03",
         "category": ["E.Honda"],
         "requires": [
             "E.Honda [Player]",
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 1 Clear",
+        "name": "Blanka - Fight 01 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 2 Clear",
+        "name": "Blanka - Fight 02 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 3 Clear",
+        "name": "Blanka - Fight 03 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "name": "Blanka - Bonus 1 Clear",
+        "name": "Blanka - Bonus 01 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 4 Clear",
+        "name": "Blanka - Fight 04 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -424,7 +424,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 5 Clear",
+        "name": "Blanka - Fight 05 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 6 Clear",
+        "name": "Blanka - Fight 06 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -440,7 +440,7 @@
         ]
     },
     {
-        "name": "Blanka - Bonus 2 Clear",
+        "name": "Blanka - Bonus 02 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -448,7 +448,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 7 Clear",
+        "name": "Blanka - Fight 07 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -456,7 +456,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 8 Clear",
+        "name": "Blanka - Fight 08 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -464,7 +464,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 9 Clear",
+        "name": "Blanka - Fight 09 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -472,7 +472,7 @@
         ]
     },
     {
-        "name": "Blanka - Bonus 3 Clear",
+        "name": "Blanka - Bonus 03 Clear",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -488,7 +488,7 @@
         ]
     },
     {
-        "name": "Blanka - Fight 11 Clear",
+        "name": "Blanka - Fight 11 Clear",  
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -528,7 +528,7 @@
         ]
     },
     {
-        "name": "Blanka - Get Perfect Bonus 1",
+        "name": "Blanka - Get Perfect Bonus 01",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -536,7 +536,7 @@
         ]
     },
     {
-        "name": "Blanka - Get Perfect Bonus 2",
+        "name": "Blanka - Get Perfect Bonus 02",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "name": "Blanka - Get Perfect Bonus 3",
+        "name": "Blanka - Get Perfect Bonus 03",
         "category": ["Blanka"],
         "requires": [
             "Blanka [Player]",
@@ -576,7 +576,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 1 Clear",
+        "name": "Guile - Fight 01 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -584,7 +584,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 2 Clear",
+        "name": "Guile - Fight 02 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 3 Clear",
+        "name": "Guile - Fight 03 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -600,7 +600,7 @@
         ]
     },
     {
-        "name": "Guile - Bonus 1 Clear",
+        "name": "Guile - Bonus 01 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -608,7 +608,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 4 Clear",
+        "name": "Guile - Fight 04 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -616,7 +616,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 5 Clear",
+        "name": "Guile - Fight 05 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -624,7 +624,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 6 Clear",
+        "name": "Guile - Fight 06 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -632,7 +632,7 @@
         ]
     },
     {
-        "name": "Guile - Bonus 2 Clear",
+        "name": "Guile - Bonus 02 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -640,7 +640,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 7 Clear",
+        "name": "Guile - Fight 07 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -648,7 +648,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 8 Clear",
+        "name": "Guile - Fight 08 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -656,7 +656,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 9 Clear",
+        "name": "Guile - Fight 09 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -664,7 +664,7 @@
         ]
     },
     {
-        "name": "Guile - Bonus 3 Clear",
+        "name": "Guile - Bonus 03 Clear",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -680,7 +680,7 @@
         ]
     },
     {
-        "name": "Guile - Fight 11 Clear",
+        "name": "Guile - Fight 11 Clear",  
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -720,7 +720,7 @@
         ]
     },
     {
-        "name": "Guile - Get Perfect Bonus 1",
+        "name": "Guile - Get Perfect Bonus 01",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -728,7 +728,7 @@
         ]
     },
     {
-        "name": "Guile - Get Perfect Bonus 2",
+        "name": "Guile - Get Perfect Bonus 02",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -736,7 +736,7 @@
         ]
     },
     {
-        "name": "Guile - Get Perfect Bonus 3",
+        "name": "Guile - Get Perfect Bonus 03",
         "category": ["Guile"],
         "requires": [
             "Guile [Player]",
@@ -768,7 +768,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 1 Clear",
+        "name": "T.Hawk - Fight 01 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -776,7 +776,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 2 Clear",
+        "name": "T.Hawk - Fight 02 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -784,7 +784,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 3 Clear",
+        "name": "T.Hawk - Fight 03 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -792,7 +792,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Bonus 1 Clear",
+        "name": "T.Hawk - Bonus 01 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -800,7 +800,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 4 Clear",
+        "name": "T.Hawk - Fight 04 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -808,7 +808,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 5 Clear",
+        "name": "T.Hawk - Fight 05 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -816,7 +816,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 6 Clear",
+        "name": "T.Hawk - Fight 06 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -824,7 +824,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Bonus 2 Clear",
+        "name": "T.Hawk - Bonus 02 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -832,7 +832,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 7 Clear",
+        "name": "T.Hawk - Fight 07 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -840,7 +840,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 8 Clear",
+        "name": "T.Hawk - Fight 08 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -848,7 +848,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 9 Clear",
+        "name": "T.Hawk - Fight 09 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -856,7 +856,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Bonus 3 Clear",
+        "name": "T.Hawk - Bonus 03 Clear",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -872,7 +872,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Fight 11 Clear",
+        "name": "T.Hawk - Fight 11 Clear",  
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -912,7 +912,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Get Perfect Bonus 1",
+        "name": "T.Hawk - Get Perfect Bonus 01",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -920,7 +920,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Get Perfect Bonus 2",
+        "name": "T.Hawk - Get Perfect Bonus 02",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -928,7 +928,7 @@
         ]
     },
     {
-        "name": "T.Hawk - Get Perfect Bonus 3",
+        "name": "T.Hawk - Get Perfect Bonus 03",
         "category": ["T.Hawk"],
         "requires": [
             "T.Hawk [Player]",
@@ -960,7 +960,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 1 Clear",
+        "name": "Fei Long - Fight 01 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -968,7 +968,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 2 Clear",
+        "name": "Fei Long - Fight 02 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -976,7 +976,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 3 Clear",
+        "name": "Fei Long - Fight 03 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -984,7 +984,7 @@
         ]
     },
     {
-        "name": "Fei Long - Bonus 1 Clear",
+        "name": "Fei Long - Bonus 01 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -992,7 +992,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 4 Clear",
+        "name": "Fei Long - Fight 04 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1000,7 +1000,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 5 Clear",
+        "name": "Fei Long - Fight 05 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1008,7 +1008,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 6 Clear",
+        "name": "Fei Long - Fight 06 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1016,7 +1016,7 @@
         ]
     },
     {
-        "name": "Fei Long - Bonus 2 Clear",
+        "name": "Fei Long - Bonus 02 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1024,7 +1024,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 7 Clear",
+        "name": "Fei Long - Fight 07 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1032,7 +1032,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 8 Clear",
+        "name": "Fei Long - Fight 08 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1040,7 +1040,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 9 Clear",
+        "name": "Fei Long - Fight 09 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1048,7 +1048,7 @@
         ]
     },
     {
-        "name": "Fei Long - Bonus 3 Clear",
+        "name": "Fei Long - Bonus 03 Clear",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1064,7 +1064,7 @@
         ]
     },
     {
-        "name": "Fei Long - Fight 11 Clear",
+        "name": "Fei Long - Fight 11 Clear",  
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1104,7 +1104,7 @@
         ]
     },
     {
-        "name": "Fei Long - Get Perfect Bonus 1",
+        "name": "Fei Long - Get Perfect Bonus 01",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1112,7 +1112,7 @@
         ]
     },
     {
-        "name": "Fei Long - Get Perfect Bonus 2",
+        "name": "Fei Long - Get Perfect Bonus 02",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1120,7 +1120,7 @@
         ]
     },
     {
-        "name": "Fei Long - Get Perfect Bonus 3",
+        "name": "Fei Long - Get Perfect Bonus 03",
         "category": ["Fei Long"],
         "requires": [
             "Fei Long [Player]",
@@ -1152,7 +1152,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 1 Clear",
+        "name": "Ken - Fight 01 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1160,7 +1160,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 2 Clear",
+        "name": "Ken - Fight 02 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1168,7 +1168,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 3 Clear",
+        "name": "Ken - Fight 03 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1176,7 +1176,7 @@
         ]
     },
     {
-        "name": "Ken - Bonus 1 Clear",
+        "name": "Ken - Bonus 01 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1184,7 +1184,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 4 Clear",
+        "name": "Ken - Fight 04 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1192,7 +1192,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 5 Clear",
+        "name": "Ken - Fight 05 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1200,7 +1200,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 6 Clear",
+        "name": "Ken - Fight 06 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1208,7 +1208,7 @@
         ]
     },
     {
-        "name": "Ken - Bonus 2 Clear",
+        "name": "Ken - Bonus 02 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1216,7 +1216,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 7 Clear",
+        "name": "Ken - Fight 07 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1224,7 +1224,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 8 Clear",
+        "name": "Ken - Fight 08 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1232,7 +1232,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 9 Clear",
+        "name": "Ken - Fight 09 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1240,7 +1240,7 @@
         ]
     },
     {
-        "name": "Ken - Bonus 3 Clear",
+        "name": "Ken - Bonus 03 Clear",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1256,7 +1256,7 @@
         ]
     },
     {
-        "name": "Ken - Fight 11 Clear",
+        "name": "Ken - Fight 11 Clear",  
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1296,7 +1296,7 @@
         ]
     },
     {
-        "name": "Ken - Get Perfect Bonus 1",
+        "name": "Ken - Get Perfect Bonus 01",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1304,7 +1304,7 @@
         ]
     },
     {
-        "name": "Ken - Get Perfect Bonus 2",
+        "name": "Ken - Get Perfect Bonus 02",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1312,7 +1312,7 @@
         ]
     },
     {
-        "name": "Ken - Get Perfect Bonus 3",
+        "name": "Ken - Get Perfect Bonus 03",
         "category": ["Ken"],
         "requires": [
             "Ken [Player]",
@@ -1344,7 +1344,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 1 Clear",
+        "name": "Chun-Li - Fight 01 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1352,7 +1352,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 2 Clear",
+        "name": "Chun-Li - Fight 02 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1360,7 +1360,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 3 Clear",
+        "name": "Chun-Li - Fight 03 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1368,7 +1368,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Bonus 1 Clear",
+        "name": "Chun-Li - Bonus 01 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1376,7 +1376,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 4 Clear",
+        "name": "Chun-Li - Fight 04 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1384,7 +1384,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 5 Clear",
+        "name": "Chun-Li - Fight 05 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1392,7 +1392,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 6 Clear",
+        "name": "Chun-Li - Fight 06 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Bonus 2 Clear",
+        "name": "Chun-Li - Bonus 02 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1408,7 +1408,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 7 Clear",
+        "name": "Chun-Li - Fight 07 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1416,7 +1416,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 8 Clear",
+        "name": "Chun-Li - Fight 08 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1424,7 +1424,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 9 Clear",
+        "name": "Chun-Li - Fight 09 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1432,7 +1432,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Bonus 3 Clear",
+        "name": "Chun-Li - Bonus 03 Clear",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1448,7 +1448,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Fight 11 Clear",
+        "name": "Chun-Li - Fight 11 Clear",  
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1488,7 +1488,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Get Perfect Bonus 1",
+        "name": "Chun-Li - Get Perfect Bonus 01",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1496,7 +1496,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Get Perfect Bonus 2",
+        "name": "Chun-Li - Get Perfect Bonus 02",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1504,7 +1504,7 @@
         ]
     },
     {
-        "name": "Chun-Li - Get Perfect Bonus 3",
+        "name": "Chun-Li - Get Perfect Bonus 03",
         "category": ["Chun-Li"],
         "requires": [
             "Chun-Li [Player]",
@@ -1544,7 +1544,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 1 Clear",
+        "name": "Zangief - Fight 01 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1552,7 +1552,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 2 Clear",
+        "name": "Zangief - Fight 02 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1560,7 +1560,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 3 Clear",
+        "name": "Zangief - Fight 03 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1568,7 +1568,7 @@
         ]
     },
     {
-        "name": "Zangief - Bonus 1 Clear",
+        "name": "Zangief - Bonus 01 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1576,7 +1576,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 4 Clear",
+        "name": "Zangief - Fight 04 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1584,7 +1584,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 5 Clear",
+        "name": "Zangief - Fight 05 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1592,7 +1592,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 6 Clear",
+        "name": "Zangief - Fight 06 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1600,7 +1600,7 @@
         ]
     },
     {
-        "name": "Zangief - Bonus 2 Clear",
+        "name": "Zangief - Bonus 02 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1608,7 +1608,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 7 Clear",
+        "name": "Zangief - Fight 07 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1616,7 +1616,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 8 Clear",
+        "name": "Zangief - Fight 08 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1624,7 +1624,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 9 Clear",
+        "name": "Zangief - Fight 09 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1632,7 +1632,7 @@
         ]
     },
     {
-        "name": "Zangief - Bonus 3 Clear",
+        "name": "Zangief - Bonus 03 Clear",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1648,7 +1648,7 @@
         ]
     },
     {
-        "name": "Zangief - Fight 11 Clear",
+        "name": "Zangief - Fight 11 Clear",  
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1688,7 +1688,7 @@
         ]
     },
     {
-        "name": "Zangief - Get Perfect Bonus 1",
+        "name": "Zangief - Get Perfect Bonus 01",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1696,7 +1696,7 @@
         ]
     },
     {
-        "name": "Zangief - Get Perfect Bonus 2",
+        "name": "Zangief - Get Perfect Bonus 02",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1704,7 +1704,7 @@
         ]
     },
     {
-        "name": "Zangief - Get Perfect Bonus 3",
+        "name": "Zangief - Get Perfect Bonus 03",
         "category": ["Zangief"],
         "requires": [
             "Zangief [Player]",
@@ -1736,7 +1736,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 1 Clear",
+        "name": "Dhalsim  - Fight 01 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1744,7 +1744,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 2 Clear",
+        "name": "Dhalsim  - Fight 02 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1752,7 +1752,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 3 Clear",
+        "name": "Dhalsim  - Fight 03 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1760,7 +1760,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Bonus 1 Clear",
+        "name": "Dhalsim  - Bonus 01 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1768,7 +1768,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 4 Clear",
+        "name": "Dhalsim  - Fight 04 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1776,7 +1776,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 5 Clear",
+        "name": "Dhalsim  - Fight 05 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1784,7 +1784,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 6 Clear",
+        "name": "Dhalsim  - Fight 06 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1792,7 +1792,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Bonus 2 Clear",
+        "name": "Dhalsim  - Bonus 02 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1800,7 +1800,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 7 Clear",
+        "name": "Dhalsim  - Fight 07 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1808,7 +1808,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 8 Clear",
+        "name": "Dhalsim  - Fight 08 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1816,7 +1816,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 9 Clear",
+        "name": "Dhalsim  - Fight 09 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1824,7 +1824,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Bonus 3 Clear",
+        "name": "Dhalsim  - Bonus 03 Clear",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1840,7 +1840,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Fight 11 Clear",
+        "name": "Dhalsim  - Fight 11 Clear",  
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1880,7 +1880,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Get Perfect Bonus 1",
+        "name": "Dhalsim  - Get Perfect Bonus 01",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1888,7 +1888,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Get Perfect Bonus 2",
+        "name": "Dhalsim  - Get Perfect Bonus 02",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1896,7 +1896,7 @@
         ]
     },
     {
-        "name": "Dhalsim  - Get Perfect Bonus 3",
+        "name": "Dhalsim  - Get Perfect Bonus 03",
         "category": ["Dhalsim"],
         "requires": [
             "Dhalsim [Player]",
@@ -1928,7 +1928,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 1 Clear",
+        "name": "Cammy - Fight 01 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1936,7 +1936,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 2 Clear",
+        "name": "Cammy - Fight 02 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1944,7 +1944,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 3 Clear",
+        "name": "Cammy - Fight 03 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1952,7 +1952,7 @@
         ]
     },
     {
-        "name": "Cammy - Bonus 1 Clear",
+        "name": "Cammy - Bonus 01 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1960,7 +1960,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 4 Clear",
+        "name": "Cammy - Fight 04 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1968,7 +1968,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 5 Clear",
+        "name": "Cammy - Fight 05 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1976,7 +1976,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 6 Clear",
+        "name": "Cammy - Fight 06 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1984,7 +1984,7 @@
         ]
     },
     {
-        "name": "Cammy - Bonus 2 Clear",
+        "name": "Cammy - Bonus 02 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -1992,7 +1992,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 7 Clear",
+        "name": "Cammy - Fight 07 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2000,7 +2000,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 8 Clear",
+        "name": "Cammy - Fight 08 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2008,7 +2008,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 9 Clear",
+        "name": "Cammy - Fight 09 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2016,7 +2016,7 @@
         ]
     },
     {
-        "name": "Cammy - Bonus 3 Clear",
+        "name": "Cammy - Bonus 03 Clear",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2032,7 +2032,7 @@
         ]
     },
     {
-        "name": "Cammy - Fight 11 Clear",
+        "name": "Cammy - Fight 11 Clear",  
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2072,7 +2072,7 @@
         ]
     },
     {
-        "name": "Cammy - Get Perfect Bonus 1",
+        "name": "Cammy - Get Perfect Bonus 01",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2080,7 +2080,7 @@
         ]
     },
     {
-        "name": "Cammy - Get Perfect Bonus 2",
+        "name": "Cammy - Get Perfect Bonus 02",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2088,7 +2088,7 @@
         ]
     },
     {
-        "name": "Cammy - Get Perfect Bonus 3",
+        "name": "Cammy - Get Perfect Bonus 03",
         "category": ["Cammy"],
         "requires": [
             "Cammy [Player]",
@@ -2128,7 +2128,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 1 Clear",
+        "name": "Dee Jay - Fight 01 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2136,7 +2136,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 2 Clear",
+        "name": "Dee Jay - Fight 02 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2144,7 +2144,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 3 Clear",
+        "name": "Dee Jay - Fight 03 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2152,7 +2152,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Bonus 1 Clear",
+        "name": "Dee Jay - Bonus 01 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2160,7 +2160,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 4 Clear",
+        "name": "Dee Jay - Fight 04 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2168,7 +2168,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 5 Clear",
+        "name": "Dee Jay - Fight 05 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2176,7 +2176,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 6 Clear",
+        "name": "Dee Jay - Fight 06 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2184,7 +2184,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Bonus 2 Clear",
+        "name": "Dee Jay - Bonus 02 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2192,7 +2192,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 7 Clear",
+        "name": "Dee Jay - Fight 07 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2200,7 +2200,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 8 Clear",
+        "name": "Dee Jay - Fight 08 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2208,7 +2208,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 9 Clear",
+        "name": "Dee Jay - Fight 09 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2216,7 +2216,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Bonus 3 Clear",
+        "name": "Dee Jay - Bonus 03 Clear",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2232,7 +2232,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Fight 11 Clear",
+        "name": "Dee Jay - Fight 11 Clear",  
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2272,7 +2272,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Get Perfect Bonus 1",
+        "name": "Dee Jay - Get Perfect Bonus 01",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2280,7 +2280,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Get Perfect Bonus 2",
+        "name": "Dee Jay - Get Perfect Bonus 02",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2288,7 +2288,7 @@
         ]
     },
     {
-        "name": "Dee Jay - Get Perfect Bonus 3",
+        "name": "Dee Jay - Get Perfect Bonus 03",
         "category": ["Dee Jay"],
         "requires": [
             "Dee Jay [Player]",
@@ -2320,7 +2320,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 1 Clear",
+        "name": "Balrog - Fight 01 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2328,7 +2328,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 2 Clear",
+        "name": "Balrog - Fight 02 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2336,7 +2336,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 3 Clear",
+        "name": "Balrog - Fight 03 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2344,7 +2344,7 @@
         ]
     },
     {
-        "name": "Balrog - Bonus 1 Clear",
+        "name": "Balrog - Bonus 01 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2352,7 +2352,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 4 Clear",
+        "name": "Balrog - Fight 04 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2360,7 +2360,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 5 Clear",
+        "name": "Balrog - Fight 05 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2368,7 +2368,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 6 Clear",
+        "name": "Balrog - Fight 06 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2376,7 +2376,7 @@
         ]
     },
     {
-        "name": "Balrog - Bonus 2 Clear",
+        "name": "Balrog - Bonus 02 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2384,7 +2384,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 7 Clear",
+        "name": "Balrog - Fight 07 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2392,7 +2392,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 8 Clear",
+        "name": "Balrog - Fight 08 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2400,7 +2400,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 9 Clear",
+        "name": "Balrog - Fight 09 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2408,7 +2408,7 @@
         ]
     },
     {
-        "name": "Balrog - Bonus 3 Clear",
+        "name": "Balrog - Bonus 03 Clear",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2424,7 +2424,7 @@
         ]
     },
     {
-        "name": "Balrog - Fight 11 Clear",
+        "name": "Balrog - Fight 11 Clear",  
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2464,7 +2464,7 @@
         ]
     },
     {
-        "name": "Balrog - Get Perfect Bonus 1",
+        "name": "Balrog - Get Perfect Bonus 01",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2472,7 +2472,7 @@
         ]
     },
     {
-        "name": "Balrog - Get Perfect Bonus 2",
+        "name": "Balrog - Get Perfect Bonus 02",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2480,7 +2480,7 @@
         ]
     },
     {
-        "name": "Balrog - Get Perfect Bonus 3",
+        "name": "Balrog - Get Perfect Bonus 03",
         "category": ["Balrog"],
         "requires": [
             "Balrog [Player]",
@@ -2512,7 +2512,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 1 Clear",
+        "name": "Vega - Fight 01 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2520,7 +2520,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 2 Clear",
+        "name": "Vega - Fight 02 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2528,7 +2528,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 3 Clear",
+        "name": "Vega - Fight 03 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2536,7 +2536,7 @@
         ]
     },
     {
-        "name": "Vega - Bonus 1 Clear",
+        "name": "Vega - Bonus 01 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2544,7 +2544,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 4 Clear",
+        "name": "Vega - Fight 04 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2552,7 +2552,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 5 Clear",
+        "name": "Vega - Fight 05 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2560,7 +2560,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 6 Clear",
+        "name": "Vega - Fight 06 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2568,7 +2568,7 @@
         ]
     },
     {
-        "name": "Vega - Bonus 2 Clear",
+        "name": "Vega - Bonus 02 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2576,7 +2576,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 7 Clear",
+        "name": "Vega - Fight 07 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2584,7 +2584,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 8 Clear",
+        "name": "Vega - Fight 08 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2592,7 +2592,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 9 Clear",
+        "name": "Vega - Fight 09 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2600,7 +2600,7 @@
         ]
     },
     {
-        "name": "Vega - Bonus 3 Clear",
+        "name": "Vega - Bonus 03 Clear",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2616,7 +2616,7 @@
         ]
     },
     {
-        "name": "Vega - Fight 11 Clear",
+        "name": "Vega - Fight 11 Clear",  
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2656,7 +2656,7 @@
         ]
     },
     {
-        "name": "Vega - Get Perfect Bonus 1",
+        "name": "Vega - Get Perfect Bonus 01",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2664,7 +2664,7 @@
         ]
     },
     {
-        "name": "Vega - Get Perfect Bonus 2",
+        "name": "Vega - Get Perfect Bonus 02",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2672,7 +2672,7 @@
         ]
     },
     {
-        "name": "Vega - Get Perfect Bonus 3",
+        "name": "Vega - Get Perfect Bonus 03",
         "category": ["Vega"],
         "requires": [
             "Vega [Player]",
@@ -2704,7 +2704,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 1 Clear",
+        "name": "Sagat - Fight 01 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2712,7 +2712,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 2 Clear",
+        "name": "Sagat - Fight 02 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2720,7 +2720,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 3 Clear",
+        "name": "Sagat - Fight 03 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2728,7 +2728,7 @@
         ]
     },
     {
-        "name": "Sagat - Bonus 1 Clear",
+        "name": "Sagat - Bonus 01 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2736,7 +2736,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 4 Clear",
+        "name": "Sagat - Fight 04 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2744,7 +2744,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 5 Clear",
+        "name": "Sagat - Fight 05 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2752,7 +2752,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 6 Clear",
+        "name": "Sagat - Fight 06 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2760,7 +2760,7 @@
         ]
     },
     {
-        "name": "Sagat - Bonus 2 Clear",
+        "name": "Sagat - Bonus 02 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2768,7 +2768,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 7 Clear",
+        "name": "Sagat - Fight 07 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2776,7 +2776,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 8 Clear",
+        "name": "Sagat - Fight 08 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2784,7 +2784,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 9 Clear",
+        "name": "Sagat - Fight 09 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2792,7 +2792,7 @@
         ]
     },
     {
-        "name": "Sagat - Bonus 3 Clear",
+        "name": "Sagat - Bonus 03 Clear",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2808,7 +2808,7 @@
         ]
     },
     {
-        "name": "Sagat - Fight 11 Clear",
+        "name": "Sagat - Fight 11 Clear",  
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2848,7 +2848,7 @@
         ]
     },
     {
-        "name": "Sagat - Get Perfect Bonus 1",
+        "name": "Sagat - Get Perfect Bonus 01",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2856,7 +2856,7 @@
         ]
     },
     {
-        "name": "Sagat - Get Perfect Bonus 2",
+        "name": "Sagat - Get Perfect Bonus 02",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2864,7 +2864,7 @@
         ]
     },
     {
-        "name": "Sagat - Get Perfect Bonus 3",
+        "name": "Sagat - Get Perfect Bonus 03",
         "category": ["Sagat"],
         "requires": [
             "Sagat [Player]",
@@ -2896,7 +2896,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 1 Clear",
+        "name": "M.Bison - Fight 01 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2904,7 +2904,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 2 Clear",
+        "name": "M.Bison - Fight 02 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2912,7 +2912,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 3 Clear",
+        "name": "M.Bison - Fight 03 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2920,7 +2920,7 @@
         ]
     },
     {
-        "name": "M.Bison - Bonus 1 Clear",
+        "name": "M.Bison - Bonus 01 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2928,7 +2928,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 4 Clear",
+        "name": "M.Bison - Fight 04 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2936,7 +2936,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 5 Clear",
+        "name": "M.Bison - Fight 05 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2944,7 +2944,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 6 Clear",
+        "name": "M.Bison - Fight 06 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2952,7 +2952,7 @@
         ]
     },
     {
-        "name": "M.Bison - Bonus 2 Clear",
+        "name": "M.Bison - Bonus 02 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2960,7 +2960,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 7 Clear",
+        "name": "M.Bison - Fight 07 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2968,7 +2968,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 8 Clear",
+        "name": "M.Bison - Fight 08 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2976,7 +2976,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 9 Clear",
+        "name": "M.Bison - Fight 09 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -2984,7 +2984,7 @@
         ]
     },
     {
-        "name": "M.Bison - Bonus 1 Clear",
+        "name": "M.Bison - Bonus 03 Clear",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -3000,7 +3000,7 @@
         ]
     },
     {
-        "name": "M.Bison - Fight 11 Clear",
+        "name": "M.Bison - Fight 11 Clear",  
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -3040,7 +3040,7 @@
         ]
     },
     {
-        "name": "M.Bison - Get Perfect Bonus 1",
+        "name": "M.Bison - Get Perfect Bonus 01",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -3048,7 +3048,7 @@
         ]
     },
     {
-        "name": "M.Bison - Get Perfect Bonus 2",
+        "name": "M.Bison - Get Perfect Bonus 02",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -3056,7 +3056,7 @@
         ]
     },
     {
-        "name": "M.Bison - Get Perfect Bonus 3",
+        "name": "M.Bison - Get Perfect Bonus 03",
         "category": ["M.Bison"],
         "requires": [
             "M.Bison [Player]",
@@ -3420,13 +3420,13 @@
             "Vega [Player]",
             "M.Bison [Player]",
             "Super Battle",
-            "Victory Token:20"
+            "Shadaloo Emblem:ALL"
         ]
     },
     {
         "name": "Street Fighter Token",
         "victory": true,
         "category": ["Goal"],
-        "requires": "|Victory Token:ALL|"
+        "requires": "|Shadaloo Emblem:ALL|"
     }
 ]

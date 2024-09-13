@@ -244,9 +244,9 @@
         "progression": true
     },
     {
-        "name": "Victory Token",
+        "name": "Shadaloo Emblem",
         "category": ["Token"],
-        "count": 20,
+        "count": 25,
         "progression": true
     }
 ]
