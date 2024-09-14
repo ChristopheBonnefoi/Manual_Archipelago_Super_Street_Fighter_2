@@ -3131,17 +3131,17 @@
         "requires": "|Super Battle|"
     },
     {
-        "name": "E.Honda  in Super Battle Mode - Defeat",
+        "name": "E.Honda in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Blanka  in Super Battle Mode - Defeat",
+        "name": "Blanka in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
     {
-        "name": "Guile  in Super Battle Mode - Defeat",
+        "name": "Guile in Super Battle Mode - Defeat",
         "category": ["Defeated in Super Battle Mode"],
         "requires": "|Super Battle|"
     },
@@ -3214,7 +3214,7 @@
         ]
     },
     {
-        "name": "E.Honda  in Time Challenge - Defeat",
+        "name": "E.Honda in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "E.Honda [CPU for Time Challenge]",
@@ -3222,7 +3222,7 @@
         ]
     },
     {
-        "name": "Blanka  in Time Challenge - Defeat",
+        "name": "Blanka in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Blanka [CPU for Time Challenge]",
@@ -3230,7 +3230,7 @@
         ]
     },
     {
-        "name": "Guile  in Time Challenge - Defeat",
+        "name": "Guile in Time Challenge - Defeat",
         "category": ["Defeated in Time Challenge"],
         "requires": [
             "Guile [CPU for Time Challenge]",
