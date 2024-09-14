@@ -18,8 +18,11 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is ful
 
 ## Patch Notes
 
+### Version 0.4.1: PopTracker Updates
+- Added items and locations to the PopTracker.
+
 ### Version 0.4.0: PopTracker Updates
-I have created the PopTracker, which is currently in beta, just like the apworld. At this time, there is no defined goal on the tracker, and the auto-tracker feature with AP is not yet working. I am currently working on it.
+I have created the PopTracker, which is currently in beta, just like the AP world. At this time, there is no defined goal on the tracker, and the auto-tracker feature with AP is not yet working. I am currently working on it.
 
 ### Version 0.3.3:
 - Renamed all checks related to character battles to improve the spoiler log and item pool.
