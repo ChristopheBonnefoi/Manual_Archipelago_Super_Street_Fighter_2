@@ -244,6 +244,611 @@
         "progression": true
     },
     {
+        "name": "Balrog - Head Bomber",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Balrog - Dash Straight",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Balrog - Dash Upper",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Balrog - Turn Punch",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Balrog - Buffalo Headbutt",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Blanka - Wild Fang",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Blanka - Rock Crush",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Blanka - Electric Thunder",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Blanka - Rolling Attack",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Blanka - Backstep Rolling",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Blanka - Vertical Rolling",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Hooligan Suplex",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Frankensteiner",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Flying Neck Hunt",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Air Frankensteiner",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Spiral Arrow",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Cannon Spike",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Cammy - Axle Spin Knuckle",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Sankaku Tobi",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Koshuu Tou",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Ryuusei Raku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Kouhou Kaiten Kyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Kaku Kyaku Raku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Yousou Kyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Spinning Bird Kick",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Haykuretsu Kyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Chun-Li - Kikouken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dee Jay - Funky Shout Throw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dee Jay - Monkey Flip",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dee Jay - Knee Shot",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dee Jay - Air Slasher (Max Out)",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dee Jay - Double Rolling Sobat",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dee Jay - Machine Gun Upper",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Yoga Smash",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Yoga Throw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Drill Zutsuki/Yoga Mummy",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Drill Kick/Yoga Spear",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Yoga Fire",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Yoga Flame",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Yoga Teleport Forward",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Dhalsim - Yoga Teleport Backward",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Tawara Nage",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Saba Ori",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Hiza Geri",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Sekkan Kyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Flying Sumo Press",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Hyakuretsu Harite",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Super Zutsuki",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "E.Honda - Super Hyakkan Otoshi",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Fei Long - Gankai Hou",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Fei Long - Shuu Kubi Kari",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Fei Long - Chokka Raku Shou",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Fei Long - En Geki Shuu",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Fei Long - Rekka Ken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Fei Long - Shien Kyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Judo Throw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Dragon Suplex",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Flying Mare",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Flying Buster Drop",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Knee Bazooka",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Reverse Spin Kick",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Spinning Back Knuckle",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Sonic Boom",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Guile - Somersault Kick",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ken - Seoi Nage",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ken - Tsukami Nage",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ken - Hadouken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ken - Shoryuken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ken - Tatsumaki Senpuukyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ken - Kuchuu Tatsumaki Senpuukyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "M.Bison - Deadly Throw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "M.Bison - Psycho Crusher",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "M.Bison - Double Knee Press",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "M.Bison - Head Press",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "M.Bison - Somersault Skull Diver",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "M.Bison - Devil Reverse",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Seoi Nage",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Tomoe Nage",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Hadouken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Shakunetsu Hadouken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Shoryuken",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Tatsumaki Senpuukyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Ryu - Kuchuu Tatsumaki Senpuukyaku",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Sagat - Tiger Carry",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Sagat - Tiger Shot",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Sagat - Ground Tiger Shot",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Sagat - Tiger Uppercut",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Sagat - Tiger Knee Crush",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Mexican Throw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Neck Hanging Tree",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Elbow Stomping",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Thrust Beak",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Heavy Shoulder",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Heavy Body Press",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Condor Dive",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Tomahawk Buster",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "T.Hawk - Mexican Typhoon",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Sankaku Tobi",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Rainbow Suplex",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Stardust Drop",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Back Slash",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Short Back Slash",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Rolling Crystal Flash",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Flying Barcelona Attack",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Izuna Drop",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Vega - Sky High Claw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Piledriver",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Iron Claw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Brain Buster",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Kamitsuki",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Deadly Driver",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Leg Throw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Stomach Claw",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Flying Body Attack",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Double Knee Drop",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Headbutt",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Double Lariat",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Quick Lariat",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Screw Piledriver",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Flying Powerbomb",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
+        "name": "Zangief - Atomic Suplex",
+        "category": ["Special Moves"],
+        "count": 1
+    },
+    {
         "name": "Shadaloo Emblem",
         "category": ["Token"],
         "count": 100,

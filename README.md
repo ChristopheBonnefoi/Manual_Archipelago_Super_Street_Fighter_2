@@ -1,113 +1,111 @@
 # Archipelago Manual for Super Street Fighter 2
 
-**Version 0.5.0**
+**Version 0.6.0**
 
 ## Welcome!
-Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I plan to review other versions later to ensure that all checks are compatible, as some modes like Time Challenge may not be available in all versions. I also intend to learn about hooks in the future to further improve the YAML quality.
+Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is a community‑driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo (SNES) version of the game. Other versions will be reviewed later to ensure compatibility of all checks, since some modes—like Time Challenge—may not be available everywhere. Hooks support will also be added in the future to improve the YAML integration.
 
 ## Project Status
-This project has completed its **Alpha** phase and is now in **Beta**. It is fully functional, with many optimizations and additional features underway. Your feedback and contributions are still highly valued as they help further improve the manual and resolve potential issues. Each Beta release is tested at least once before being uploaded to GitHub. However, since no system is infallible, please do not hesitate to report any errors.
+This project has completed its **Alpha** phase and is now in **Beta**. It is fully functional, with many optimizations and additional features underway. Your feedback and contributions remain invaluable for improving the manual and resolving any issues. Each Beta release is tested at least once before being pushed to GitHub. However, no system is infallible, so please report any bugs or inconsistencies.
 
 ## Current Features
-- **Super Battle Mode – ALL CLEARS**: Players must complete the Super Battle Mode for all characters.
-- **Street Fighter Token**: Players collect tokens to complete the game.
-- **Time Challenge Mode – ALL CLEARS**: Defeat all opponents in Time Challenge Mode.
-- **ALL CLEARS + TOKENS**: Achieve all objectives and collect tokens.
+- **Super Battle Mode – ALL CLEARS**: Complete Super Battle Mode with every character.  
+- **Street Fighter Token**: Collect tokens scattered throughout the game.  
+- **Time Challenge Mode – ALL CLEARS**: Defeat every opponent in Time Challenge Mode.  
+- **ALL CLEARS + TOKENS**: Fulfill all objectives and gather all tokens.
 
 ## Future Features (not guaranteed)
-- Adding character-specific techniques to the item pool.
-- Implementing a requirement to win a round for each special technique.
+- Add character‑specific special moves into the item pool.  
+- Require winning at least one round for each special move check.
 
 ## Patch Notes
 
-### Version 0.5.0: Beta Release
-- Bumped manual to **0.5.0** to reflect the latest updates and improvements.
-- Updated README and Patch Notes for the new version.
-- Preparation for upcoming YAML hook enhancements (detailed features to follow).
+### Version 0.6.0
+- Added special moves to the item pool.
+
+### Version 0.5.1
+- Fixed migration-related issues.
+
+### Version 0.5.0
+- Migrated to the new Manual Archipelago framework (Version 0.5.0).
 
 ### Version 0.4.1: PopTracker Updates
 - Added items and locations to the PopTracker.
 
 ### Version 0.4.0: PopTracker Updates
-I have created the PopTracker, which is currently in beta, just like the AP world. At this time, there is no defined goal on the tracker, and the auto-tracker feature with AP is not yet working. I am currently working on it.
+- Introduced the PopTracker (in beta), with item and location support.  
+- Auto‑tracker integration with Archipelago is in development.
 
 ### Version 0.3.3
-- Renamed all checks related to character battles to improve the spoiler log and item pool.
-- Renamed tokens and increased their number to 25.
+- Renamed all character‑battle checks to improve spoiler logs and item pools.  
+- Renamed tokens and increased their count to 25.
 
 ### Version 0.3.2
-- Renamed all checks to have the player's name first and added bonus checks 1, 2, and 3 cleared without necessarily achieving a perfect score.
+- Reordered check names to start with the player’s name; added three bonus checks without requiring a perfect score.
 
 ### Version 0.3.1
-
 #### Removals
-- Removed 3 checks that were inadvertently left after the re-categorization of each character.
+- Removed three checks that persisted after character re‑categorization.
 
 #### Additions
-- Added a new "Special" category in the checks.
-- Introduced 3 new checks to replace the removed ones.
+- Created a new “Special” category.  
+- Added three replacement checks.
 
 ### Version 0.3.0
-
 #### Modifications
-- Corrected the "CPU Time Challenge" category by removing the unnecessary capital "I" in "Time."
+- Fixed the “CPU Time Challenge” category title by removing the stray capital “I.”  
 
 #### Additions
-- Added new YAML categories for more flexible seed creation options.
-- Added a "token" category in `game.json` with a value of 0 to allow for token removal from the pool (still in progress).
-- Created checks for each character, covering all combats, bonus stages, and additional fun checks based on the series' general lore, not strictly the game.
+- Added new YAML categories for more flexible seed creation.  
+- Introduced a “token” category in `game.json` (value 0) to allow token removal.  
+- Established checks for each character’s battles, bonus stages, and lore‑inspired challenges.
 
 #### Known Issues
-- No issues have been identified yet, as the seed has not been tested in a multiworld environment.
+- No multiworld tests performed yet; potential edge cases may remain.
 
 ### Version 0.2.0
-
 #### Additions
-- Added requirements for the checks "Beat Ryu with Ken" and "Beat Ken with Ryu."
-- Renamed the "Beat the Game" category to "Super Battle Mode."
-- Changed "Get perfect" to "Get Perfect Round."
-- Added checks related to the three bonus stages in the "Super Battle Mode" category.
-- Introduced new item categories: "Game Mode" and "CPU Time Challenge."
-- Renamed items in the "Characters" category.
-- Renamed the "Fun" category to "Challenge."
-- Renamed the "Defeated" category to "Defeated in Super Battle Mode."
-- Added checks for the "Defeated in Time Challenge" category.
-- Changed the goal "All Characters Complete!" to "Super Battle Mode – ALL CLEARS."
-- Introduced new goals: "Time Challenge Mode – ALL CLEARS" and "ALL CLEARS + TOKENS."
-- Updated and added goals in the .yaml configuration.
-- Randomized starting items in "Game Mode" and "CPU Time Challenge" in `game.json`.
-- Updated and added necessary requirements.
-- Increased the token count to 20.
+- Added “Beat Ryu with Ken” and “Beat Ken with Ryu” checks.  
+- Renamed “Beat the Game” to “Super Battle Mode.”  
+- Changed “Get perfect” to “Get Perfect Round.”  
+- Added checks for the three bonus stages in Super Battle Mode.  
+- Introduced “Game Mode” and “CPU Time Challenge” item categories.  
+- Renamed items in the “Characters” category.  
+- Renamed “Fun” to “Challenge” and “Defeated” to “Defeated in Super Battle Mode.”  
+- Added “Defeated in Time Challenge” checks.  
+- Updated goals to “Super Battle Mode – ALL CLEARS,” “Time Challenge Mode – ALL CLEARS,” and “ALL CLEARS + TOKENS.”  
+- Randomized starting items in `game.json` for Game Mode and CPU Time Challenge.  
+- Increased token count to 20.
 
 #### Known Bugs
-- During challenge check generation, the system does not account for the executable status. Currently, this is addressed by requiring "Super Battle," but ideally, it should support an OR condition for "Time Challenge" + the dedicated character.
+- Challenge check generator ignores executable status; currently works around this by always requiring Super Battle, but ideally should allow an OR condition with Time Challenge.
 
 ### Version 0.1.0
-- Removed the "Character Battles" goal.
-- Added the "SFtoken" goal and item.
-- Changed the filler item to "bandage."
-- Added various checks.
+- Removed the “Character Battles” goal.  
+- Added the SFtoken goal and item.  
+- Changed the filler item to “bandage.”  
+- Introduced various new checks.
 
 ### Version 0.0.1
-- Initial alpha release.
-- Functionality in place but pending optimization.
+- Initial alpha release.  
+- Core functionality implemented; optimizations pending.
 
 ## Future Projects
-- **Difficulty Settings**: Allow players to choose whether to activate difficulty restrictions during seed generation.
-- **Other Game Modes**: Plan to add other game modes to introduce new checks and possibly make them unlockable items.
-- **Other Goals**: Exploring other types of goals to diversify gameplay.
-- **Game Version**: Considering using a more recent version of the game, such as Super Street Fighter 2 Turbo for arcade.
+- **Difficulty Settings**: Optionally enforce difficulty restrictions when generating seeds.  
+- **Other Game Modes**: Add new modes with unlockable checks/items.  
+- **Additional Goals**: Explore more goal types to diversify playstyles.  
+- **Game Versions**: Consider support for later releases like Super Street Fighter 2 Turbo (arcade).
 
 ## How to Contribute
-We welcome contributions from everyone. Here are a few ways you can help:
-- **Feedback**: Play through the scenarios and provide feedback on gameplay and manual instructions.
-- **Code Contributions**: Submit pull requests with bug fixes or feature suggestions.
-- **Documentation**: Help improve this README or add other documentation.
+We welcome all contributions!  
+- **Feedback**: Playtest the scenarios and report any issues.  
+- **Code**: Submit pull requests with bug fixes or feature suggestions.  
+- **Docs**: Improve this README or add new documentation.
 
 ## Acknowledgements
-A special thank you to all the contributors and community members who have supported this project. Your dedication and passion make these enhancements possible. Additional thanks to our Discord moderators Seafo, Garbo, and RoobyRoo for their invaluable debugging assistance.
+Thanks to all contributors and community members whose support makes this project possible. Special thanks to our Discord moderators Seafo, Garbo, and RoobyRoo for their invaluable debugging help.
 
 ## Contact
-If you are a streamer or have any queries, do not hesitate to reach out on our Archipelago Discord or submit an issue here on GitHub. I will make an effort to respond when available.
+If you’re a streamer or have questions, reach out on the Archipelago Discord or open an issue here on GitHub. I’ll respond as soon as I can.
 
-We are excited to see how you will help shape the future of this project!
+We look forward to seeing how you help shape this project’s future!
