@@ -1,10 +1,9 @@
 {
-    "Difficulty": {
-        "hidden": true,
-        "yaml_option": ["Difficulty"]
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "Example Logic only category": {
+        "hidden": true
     },
-    "Token": {
-        "hidden": true,
-        "yaml_option": ["Token"]
+    "Example Yaml-option category": {
+        "yaml_option": ["DLC_enabled"]
     }
 }
