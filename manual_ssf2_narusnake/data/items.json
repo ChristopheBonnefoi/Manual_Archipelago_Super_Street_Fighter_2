@@ -1,409 +1,252 @@
-{
-    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
-    "data": [
-        {
-            "name": "Jill",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"star": 5, "coins": 3},
-            "progression": true
-        },
-        {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
-            "progression": true
-        },
-        {
-            "name": "Nemesis T-Type",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "value": {"coins": 7},
+[
+    {
+        "name": "Ryu [Player]",
+        "category": ["Characters"],
+        "count": 1,
         "progression": true
-        },
-        {
-            "name": "Firebrand",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Strider Hiryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Phoenix Wright",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Nova",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Ghost Rider",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hawkeye",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Doctor Strange",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Chris",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Arthur",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Frank West",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Vergil",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Iron Fist",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Rocket Raccoon",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Captain America",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Dormammu",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Wesker",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Zero",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Ryu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Dante",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Deadpool",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Wolverine",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Iron Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Doctor Doom",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Morrigan",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Tron",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Chun-Li",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Trish",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "X-23",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Storm",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Thor",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "M.O.D.O.K.",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Felicia",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Spencer",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Akuma",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Viewtiful Joe",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Spider-Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Sentinel",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Super-Skrull",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Hsien-Ko",
-            "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Haggar",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "C. Viper",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Amaterasu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Phoenix",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Magneto",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "She-Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        },
-        {
-            "name": "Taskmaster",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true
-        }    ]
-
-}
+    },
+    {
+        "name": "E.Honda [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Blanka [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Guile [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "T.Hawk [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Fei Long [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Balrog [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Sagat [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Ken [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Chun-Li [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Zangief [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dhalsim [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Cammy [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dee Jay [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Vega [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "M.Bison [Player]",
+        "category": ["Characters"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "1 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "2 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "3 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "4 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "5 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "6 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "7 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "8 Stars",
+        "category": ["Difficulty"],
+        "count": 1
+    },
+    {
+        "name": "Super Battle",
+        "category": ["Game Mode"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Time Challenge",
+        "category": ["Game Mode"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Ryu [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "E.Honda [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Blanka [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Guile [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "T.Hawk [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Fei Long [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Balrog [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Sagat [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Ken [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Chun-Li [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Zangief [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dhalsim [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Cammy [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Dee Jay [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Vega [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "M.Bison [CPU for Time Challenge]",
+        "category": ["CPU Time Challenge"],
+        "count": 1,
+        "progression": true
+    },
+    {
+        "name": "Shadaloo Emblem",
+        "category": ["Token"],
+        "count": 100,
+        "progression": true
+    }
+]

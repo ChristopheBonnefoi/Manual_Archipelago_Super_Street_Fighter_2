@@ -1,15 +1,17 @@
-# Archipelago Manual for Super Street Fighter 2
+# Archipelago Manual for Super Street Fighter 2
+
+**Version 0.5.0**
 
 ## Welcome!
-Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I plan to review other versions later to ensure that all checks are compatible, as some modes like Time Challenge may not be available in all versions. I also intend to learn about hooks in the future to further improve the YAML quality.
+Welcome to the official repository for the Archipelago integration manual for Super Street Fighter 2. This manual is part of a community-driven effort to enhance the gaming experience by linking various elements and goals across games in the Archipelago system. Currently, the randomizer is based on the Super Nintendo version of the game. I plan to review other versions later to ensure that all checks are compatible, as some modes like Time Challenge may not be available in all versions. I also intend to learn about hooks in the future to further improve the YAML quality.
 
 ## Project Status
 This project has completed its **Alpha** phase and is now in **Beta**. It is fully functional, with many optimizations and additional features underway. Your feedback and contributions are still highly valued as they help further improve the manual and resolve potential issues. Each Beta release is tested at least once before being uploaded to GitHub. However, since no system is infallible, please do not hesitate to report any errors.
 
 ## Current Features
-- **Super Battle Mode - ALL CLEARS**: Players must complete the Super Battle Mode for all characters.
+- **Super Battle Mode – ALL CLEARS**: Players must complete the Super Battle Mode for all characters.
 - **Street Fighter Token**: Players collect tokens to complete the game.
-- **Time Challenge Mode - ALL CLEARS**: Defeat all opponents in Time Challenge Mode.
+- **Time Challenge Mode – ALL CLEARS**: Defeat all opponents in Time Challenge Mode.
 - **ALL CLEARS + TOKENS**: Achieve all objectives and collect tokens.
 
 ## Future Features (not guaranteed)
@@ -18,20 +20,25 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is ful
 
 ## Patch Notes
 
+### Version 0.5.0: Beta Release
+- Bumped manual to **0.5.0** to reflect the latest updates and improvements.
+- Updated README and Patch Notes for the new version.
+- Preparation for upcoming YAML hook enhancements (detailed features to follow).
+
 ### Version 0.4.1: PopTracker Updates
 - Added items and locations to the PopTracker.
 
 ### Version 0.4.0: PopTracker Updates
 I have created the PopTracker, which is currently in beta, just like the AP world. At this time, there is no defined goal on the tracker, and the auto-tracker feature with AP is not yet working. I am currently working on it.
 
-### Version 0.3.3:
+### Version 0.3.3
 - Renamed all checks related to character battles to improve the spoiler log and item pool.
 - Renamed tokens and increased their number to 25.
 
-### Version 0.3.2:
+### Version 0.3.2
 - Renamed all checks to have the player's name first and added bonus checks 1, 2, and 3 cleared without necessarily achieving a perfect score.
 
-### Version 0.3.1:
+### Version 0.3.1
 
 #### Removals
 - Removed 3 checks that were inadvertently left after the re-categorization of each character.
@@ -65,8 +72,8 @@ I have created the PopTracker, which is currently in beta, just like the AP worl
 - Renamed the "Fun" category to "Challenge."
 - Renamed the "Defeated" category to "Defeated in Super Battle Mode."
 - Added checks for the "Defeated in Time Challenge" category.
-- Changed the goal "All Characters Complete!" to "Super Battle Mode - ALL CLEARS."
-- Introduced new goals: "Time Challenge Mode - ALL CLEARS" and "ALL CLEARS + TOKENS."
+- Changed the goal "All Characters Complete!" to "Super Battle Mode – ALL CLEARS."
+- Introduced new goals: "Time Challenge Mode – ALL CLEARS" and "ALL CLEARS + TOKENS."
 - Updated and added goals in the .yaml configuration.
 - Randomized starting items in "Game Mode" and "CPU Time Challenge" in `game.json`.
 - Updated and added necessary requirements.
@@ -89,7 +96,7 @@ I have created the PopTracker, which is currently in beta, just like the AP worl
 - **Difficulty Settings**: Allow players to choose whether to activate difficulty restrictions during seed generation.
 - **Other Game Modes**: Plan to add other game modes to introduce new checks and possibly make them unlockable items.
 - **Other Goals**: Exploring other types of goals to diversify gameplay.
-- **Game Version**: Considering using a more recent version of the game, such as Super Street Fighter 2 Turbo for arcade.
+- **Game Version**: Considering using a more recent version of the game, such as Super Street Fighter 2 Turbo for arcade.
 
 ## How to Contribute
 We welcome contributions from everyone. Here are a few ways you can help:
