@@ -3,6 +3,10 @@
         "hidden": true,
         "yaml_option": ["Difficulty"]
     },
+    "Special Moves": {
+        "hidden": true,
+        "yaml_option": ["Special_Moves"]
+    },
     "Token": {
         "hidden": true,
         "yaml_option": ["Token"]

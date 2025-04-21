@@ -20,6 +20,13 @@ This project has completed its **Alpha** phase and is now in **Beta**. It is ful
 
 ## Patch Notes
 
+### Version 0.7.0 : Hook Update
+Voici un petit resumer de la version 0.7.0 à la version 0.7.x
+
+- Migration vers la version instable d'archipelago manual (V.0.7.0)
+- Modification du YAML pour enlever la difficulté du pool d'item (V.0.7.1)
+- Modification du YAML pour enlever les Special moves du pool d'items (V.0.7.1)
+
 ### Version 0.6.0
 - Added special moves to the item pool.
 
