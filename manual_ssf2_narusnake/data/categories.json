@@ -5,6 +5,7 @@
     },
     "Special Moves": {
         "hidden": true,
+        "display_name": "Special Moves",
         "yaml_option": ["Special_Moves"]
     },
     "Token": {

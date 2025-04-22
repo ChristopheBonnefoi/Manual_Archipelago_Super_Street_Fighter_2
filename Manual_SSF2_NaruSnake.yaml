@@ -28,17 +28,17 @@
 name: Player{number}
 
 # Used to describe your yaml. Useful if you have multiple files.
-description: Default Manual_SSF2_NaruSnake Template
+description: Custom Manual_SSF2_NaruSnake Template with Special Toggles
 
 game: Manual_SSF2_NaruSnake
 requires:
-  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
+    version: 0.6.1 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_SSF2_NaruSnake:
   # Game Options
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
-    # 
+    #
     # A lower setting means more getting stuck. A higher setting means less getting stuck.
     #
     # You can define additional values between the minimum and maximum values.
@@ -48,17 +48,16 @@ Manual_SSF2_NaruSnake:
     random-low: 0
     random-high: 0
     disabled: 0 # equivalent to 0
-    normal: 50 # equivalent to 50
-    extreme: 0 # equivalent to 99
+    normal: 50  # equivalent to 50
+    extreme: 0  # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
-    # 
-    # - **Locations:** ensure everything can be reached and acquired.
-    # - **Items:** ensure all logically relevant items can be acquired.
-    # - **Minimal:** ensure what is needed to reach your goal can be acquired.
-    locations: 0
-    items: 50
+    #
+    # **Full:** ensure everything can be reached and acquired.
+    #
+    # **Minimal:** ensure what is needed to reach your goal can be acquired.
+    full: 50
     minimal: 0
 
   goal:
@@ -69,12 +68,27 @@ Manual_SSF2_NaruSnake:
     street fighter token: 0
 
   Difficulty:
-    # Should items/locations linked to this option be enabled?
+    # Increase the difficulty of the item pool to your desired challenge level.
+    'false': 0
+    'true': 50
+
+  Special_Moves:
+    # Remove special‑move items from the pool when false.
     'false': 0
     'true': 50
 
   Token:
-    # Should items/locations linked to this option be enabled?
+    # Disable token items in the pool when false.
+    'false': 0
+    'true': 50
+
+  CPU_Time_Challenge:
+    # Exclude CPU Time Challenge mode items when false.
+    'false': 0
+    'true': 50
+
+  Super_Battle:
+    # Exclude Super Battle mode items when false.
     'false': 0
     'true': 50
 
@@ -89,6 +103,11 @@ Manual_SSF2_NaruSnake:
 
   start_inventory:
     # Start with these items.
+    {}
+
+  start_inventory_from_pool:
+    # Start with these items and don't place them in the world.
+    # The game decides what the replacement items will be.
     {}
 
   start_hints:
