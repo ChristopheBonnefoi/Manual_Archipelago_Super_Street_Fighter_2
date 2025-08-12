@@ -1,15 +1,63 @@
 {
     "Difficulty": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["Difficulty"]
     },
     "Special Moves": {
-        "hidden": true,
+        "hidden": false,
         "display_name": "Special Moves",
         "yaml_option": ["Special_Moves"]
     },
     "Token": {
-        "hidden": true,
+        "hidden": false,
         "yaml_option": ["Token"]
+    },
+    "Balrog Moves": {
+        "hidden": true
+    },
+    "Blanka Moves": {
+        "hidden": true
+    },
+    "Cammy Moves": {
+        "hidden": true
+    },
+    "Chun-Li Moves": {
+        "hidden": true
+    },
+    "Dee Jay Moves": {
+        "hidden": true
+    },
+    "Dhalsim Moves": {
+        "hidden": true
+    },
+    "E.Honda Moves": {
+        "hidden": true
+    },
+    "Fei Long Moves": {
+        "hidden": true
+    },
+    "Guile Moves": {
+        "hidden": true
+    },
+    "Ken Moves": {
+        "hidden": true
+    },
+    "M.Bison Moves": {
+        "hidden": true
+    },
+    "Ryu Moves": {
+        "hidden": true
+    },
+    "Sagat Moves": {
+        "hidden": true
+    },
+    "T.Hawk Moves": {
+        "hidden": true
+    },
+    "Vega Moves": {
+        "hidden": true
+    },
+    "Zangief Moves": {
+        "hidden": true
     }
 }
