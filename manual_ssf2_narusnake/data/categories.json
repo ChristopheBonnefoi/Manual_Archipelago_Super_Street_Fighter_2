@@ -1,16 +1,40 @@
 {
     "Difficulty": {
         "hidden": false,
-        "yaml_option": ["Difficulty"]
+        "yaml_option": [
+            "Difficulty"
+        ]
     },
     "Special Moves": {
         "hidden": false,
         "display_name": "Special Moves",
-        "yaml_option": ["Special_Moves"]
+        "yaml_option": [
+            "Special_Moves"
+        ]
+    },
+    "CPU Time Challenge": {
+        "hidden": false,
+        "yaml_option": [
+            "CPU_Time_Challenge"
+        ]
+    },
+    "Defeated in Time Challenge": {
+        "hidden": false,
+        "yaml_option": [
+            "CPU_Time_Challenge"
+        ]
+    },
+    "Defeated in Super Battle Mode": {
+        "hidden": false,
+        "yaml_option": [
+            "Super_Battle"
+        ]
     },
     "Token": {
-        "hidden": false,
-        "yaml_option": ["Token"]
+        "hidden": false
+    },
+    "Filler": {
+        "hidden": false
     },
     "Balrog Moves": {
         "hidden": true

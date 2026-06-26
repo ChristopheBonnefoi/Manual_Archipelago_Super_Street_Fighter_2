@@ -1,44 +1,95 @@
 {
-    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
-    "_comment": "Add a _ before an option name to comment it out and it won’t be added to the apworld",
-    "core": {
-      "goal": {
-        "_comment": [
-          "Using 'goal' as the name of an option lets you override some of the generated goal parameters"
-        ],
-        "display_name": "The End Objective",
-        "description": "How to end your randomized playthrough.",
-        "aliases": {
-          "easiest": 0
-        },
-        "hidden": false
-      }
+  "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+  "_comment": "Add a _ before an option name to comment it out and it won't be added to the apworld",
+  "core": {
+    "goal": {
+      "_comment": [
+        "Using 'goal' as the name of an option lets you override some of the generated goal parameters"
+      ],
+      "display_name": "The End Objective",
+      "description": "How to end your randomized playthrough.",
+      "aliases": {
+        "easiest": 0,
+        "super_battle": 0,
+        "time_challenge": 1,
+        "all_clears_tokens": 2,
+        "street_fighter_token": 3
+      },
+      "hidden": false
     },
-    "user": {
-      "Difficulty": {
-        "display_name": "Difficulty",
-        "description": [
-          "Increase the difficulty of the item pool to customize how challenging you want your playthrough to be."
-        ],
-        "type": "Toggle",
-        "default": true
-      },
-      "Special_Moves": {
-        "display_name": "Special Moves",
-        "description": [
-          "When off, removes special-move items from the pool."
-        ],
-        "type": "Toggle",
-        "default": true
-      },
-      "Token": {
-        "display_name": "Token",
-        "description": [
-          "Set to false if you choose an objective that does not require tokens."
-        ],
-        "type": "Toggle",
-        "default": true
+    "death_link": {
+      "default": false
+    },
+    "filler_traps": {
+      "_comment": "Using values here lets you set a recommended filler_traps percentage or even a default percentage",
+      "values": {
+        "recommended": 0
       }
     }
+  },
+  "user": {
+    "Super_Battle": {
+      "display_name": "Super Battle Mode",
+      "description": [
+        "Include Super Battle mode progression and checks.",
+        "If a Super Battle goal is selected, this option is forced on to keep the goal reachable."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Game Modes"
+    },
+    "CPU_Time_Challenge": {
+      "display_name": "Time Challenge Mode",
+      "description": [
+        "Include Time Challenge CPU items and Time Challenge checks.",
+        "If a Time Challenge goal is selected, this option is forced on to keep the goal reachable."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Game Modes"
+    },
+    "Difficulty": {
+      "display_name": "Difficulty",
+      "description": [
+        "Increase the difficulty of the item pool to customize how challenging you want your playthrough to be."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Gameplay Options"
+    },
+    "Special_Moves": {
+      "display_name": "Special Moves",
+      "description": [
+        "When off, removes special-move items from the pool."
+      ],
+      "type": "Toggle",
+      "default": true,
+      "group": "Gameplay Options"
+    },
+    "shadaloo_emblems_required": {
+      "display_name": "Shadaloo Emblems Required",
+      "description": [
+        "Choose how many Shadaloo Emblems are required for token goals.",
+        "Shadaloo Emblems are only added to the item pool when the selected goal requires them."
+      ],
+      "type": "Range",
+      "range_start": 1,
+      "range_end": 100,
+      "default": 100,
+      "group": "Goal Options"
+    },
+    "shadaloo_emblems_available_percentage": {
+      "display_name": "Shadaloo Emblems Available Percentage",
+      "description": [
+        "Controls how many Shadaloo Emblem items are placed compared to the required amount.",
+        "100 means only the required amount is placed. 200 means double the required amount is placed.",
+        "The final amount is capped at 100 Shadaloo Emblems."
+      ],
+      "type": "Range",
+      "range_start": 100,
+      "range_end": 400,
+      "default": 100,
+      "group": "Goal Options"
+    }
   }
-  
+}

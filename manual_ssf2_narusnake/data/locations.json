@@ -1,2356 +1,3296 @@
 [
     {
         "name": "Ryu - Fight 01 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 02 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 03 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Bonus 01 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 04 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 05 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 06 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Bonus 02 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 07 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 08 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 09 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Bonus 03 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 10 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
-        "name": "Ryu - Fight 11 Clear",  
-        "category": ["Ryu"],
+        "name": "Ryu - Fight 11 Clear",
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Fight 12 Clear",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - I am the grand master of karate -Beat the Game",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
-        {
+    {
         "name": "Ryu - First Attack",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Ryu [Player]|"
     },
     {
         "name": "Ryu - Get Stun",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Ryu [Player]|"
     },
     {
         "name": "Ryu - Get Perfect Round",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Ryu [Player]|"
     },
     {
         "name": "Ryu - Win a Round Using Special Moves",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|@Ryu Moves:1| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Get Perfect Bonus 01",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Get Perfect Bonus 02",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Ryu - Get Perfect Bonus 03",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Super Battle| and |Ryu [Player]|"
     },
     {
         "name": "Beat Ken with Ryu - Masters of Hadoken",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Ryu [Player]| and |Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Vega with Ryu - You Were Losing, I Think",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Ryu [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Sagat with Ryu - Scar of Honor",
-        "category": ["Ryu"],
+        "category": [
+            "Ryu"
+        ],
         "requires": "|Ryu [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
     },
     {
         "name": "E.Honda - Fight 01 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 02 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 03 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Bonus 01 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 04 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 05 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 06 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Bonus 02 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 07 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 08 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 09 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Bonus 03 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 10 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
-        "name": "E.Honda - Fight 11 Clear",  
-        "category": ["E.Honda"],
+        "name": "E.Honda - Fight 11 Clear",
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Fight 12 Clear",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "Beat the Game - E.Honda - World’s Strongest Sumo",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - First Attack",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Get Stun",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Get Perfect Round",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Win a Round Using Special Moves",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|@E.Honda Moves:1| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Get Perfect Bonus 01",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Get Perfect Bonus 02",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "E.Honda - Get Perfect Bonus 03",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|Super Battle| and |E.Honda [Player]|"
     },
     {
         "name": "Beat Zangief with E.Honda - Monster Fight Showdown",
-        "category": ["E.Honda"],
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|E.Honda [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
     },
     {
-        "name": "Defeat Ryu with E. Honda - Japanese Duel",
-        "category": ["E.Honda"],
+        "name": "Defeat Ryu with E.Honda - Japanese Duel",
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|E.Honda [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
     },
     {
-        "name": "Defeat Ken with E. Honda - City Hunter Clash",
-        "category": ["E.Honda"],
+        "name": "Defeat Ken with E.Honda - City Hunter Clash",
+        "category": [
+            "E.Honda"
+        ],
         "requires": "|E.Honda [Player]| and |Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
     },
     {
         "name": "Blanka - Fight 01 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 02 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 03 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Bonus 01 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 04 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 05 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 06 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Bonus 02 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 07 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 08 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 09 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Bonus 03 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 10 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
-        "name": "Blanka - Fight 11 Clear",  
-        "category": ["Blanka"],
+        "name": "Blanka - Fight 11 Clear",
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Fight 12 Clear",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Beat the Game - Blanka - Mother’s Embrace",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - First Attack",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Blanka [Player]|"
     },
     {
         "name": "Blanka - Get Stun",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Blanka [Player]|"
     },
     {
         "name": "Blanka - Get Perfect Round",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Blanka [Player]|"
     },
     {
         "name": "Blanka - Win a Round Using Special Moves",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|@Blanka Moves:1| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Get Perfect Bonus 01",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Get Perfect Bonus 02",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Blanka - Get Perfect Bonus 03",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Super Battle| and |Blanka [Player]|"
     },
     {
         "name": "Beat Zangief with Blanka - Jungle Power",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Blanka [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Cammy with Blanka - Battle for Redemption",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Blanka [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Dhalsim with Blanka - Humanity's Touch",
-        "category": ["Blanka"],
+        "category": [
+            "Blanka"
+        ],
         "requires": "|Blanka [Player]| and |Super Battle| or (|Time Challenge| and |Dhalsim [CPU for Time Challenge]|)"
     },
     {
         "name": "Guile - Fight 01 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 02 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 03 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Bonus 01 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 04 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 05 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 06 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Bonus 02 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 07 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 08 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 09 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Bonus 03 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 10 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
-        "name": "Guile - Fight 11 Clear",  
-        "category": ["Guile"],
+        "name": "Guile - Fight 11 Clear",
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Fight 12 Clear",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Beat the Game - Guile - Vengeance Relinquished",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - First Attack",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Guile [Player]|"
     },
     {
         "name": "Guile - Get Stun",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Guile [Player]|"
     },
     {
         "name": "Guile - Get Perfect Round",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Guile [Player]|"
     },
     {
         "name": "Guile - Win a Round Using Special Moves",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|@Guile Moves:1| and |Guile [Player]|"
     },
     {
         "name": "Guile - Get Perfect Bonus 01",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Get Perfect Bonus 02",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Guile - Get Perfect Bonus 03",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Super Battle| and |Guile [Player]|"
     },
     {
         "name": "Beat Zangief with Guile - Ideological Warfare",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Guile [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Cammy with Guile - Training Day",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Guile [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat M.Bison with Guile - This is the Collection Agency, Bison. Your Ass is Six Months Overdue, and It's Mine.",
-        "category": ["Guile"],
+        "category": [
+            "Guile"
+        ],
         "requires": "|Guile [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
     },
     {
         "name": "T.Hawk - Fight 01 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 02 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 03 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Bonus 01 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 04 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 05 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 06 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Bonus 02 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 07 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 08 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 09 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Bonus 03 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 10 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
-        "name": "T.Hawk - Fight 11 Clear",  
-        "category": ["T.Hawk"],
+        "name": "T.Hawk - Fight 11 Clear",
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Fight 12 Clear",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "Beat the Game - T.Hawk - Restored Heritage",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - First Attack",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Get Stun",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Get Perfect Round",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Win a Round Using Special Moves",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|@T.Hawk Moves:1| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Get Perfect Bonus 01",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Get Perfect Bonus 02",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "T.Hawk - Get Perfect Bonus 03",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|Super Battle| and |T.Hawk [Player]|"
     },
     {
         "name": "Beat Zangief with T.Hawk - Clash of the Titans",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|T.Hawk [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Dhalsim with T.Hawk - Spiritual Showdown",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|T.Hawk [Player]| and |Super Battle| or (|Time Challenge| and |Dhalsim [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Cammy with T.Hawk - Sky Power",
-        "category": ["T.Hawk"],
+        "category": [
+            "T.Hawk"
+        ],
         "requires": "|T.Hawk [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
     },
     {
         "name": "Fei Long - Fight 01 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 02 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 03 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Bonus 01 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 04 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 05 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 06 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Bonus 02 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 07 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 08 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 09 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Bonus 03 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 10 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
-        "name": "Fei Long - Fight 11 Clear",  
-        "category": ["Fei Long"],
+        "name": "Fei Long - Fight 11 Clear",
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Fight 12 Clear",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Beat the Game - Fei Long - Path of the True Warrior",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - First Attack",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Get Stun",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Get Perfect Round",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Win a Round Using Special Moves",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|@Fei Long Moves:1| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Get Perfect Bonus 01",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Get Perfect Bonus 02",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Fei Long - Get Perfect Bonus 03",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Super Battle| and |Fei Long [Player]|"
     },
     {
         "name": "Beat Ryu with Fei Long - Duel of Discipline",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Fei Long [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Chun-Li with Fei Long - Clash of the Dragons",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Fei Long [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Sagat with Fei Long - Big Boss Showdown",
-        "category": ["Fei Long"],
+        "category": [
+            "Fei Long"
+        ],
         "requires": "|Fei Long [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
     },
     {
         "name": "Ken - Fight 01 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 02 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 03 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Bonus 01 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 04 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 05 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 06 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Bonus 02 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 07 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 08 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 09 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Bonus 03 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 10 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
-        "name": "Ken - Fight 11 Clear",  
-        "category": ["Ken"],
+        "name": "Ken - Fight 11 Clear",
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Fight 12 Clear",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Beat the Game - Ken - Wedding Bells Victory",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - First Attack",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Ken [Player]|"
     },
     {
         "name": "Ken - Get Stun",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Ken [Player]|"
     },
     {
         "name": "Ken - Get Perfect Round",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Ken [Player]|"
     },
     {
         "name": "Ken - Win a Round Using Special Moves",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|@Ken Moves:1| and |Ken [Player]|"
     },
     {
         "name": "Ken - Get Perfect Bonus 01",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Get Perfect Bonus 02",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Ken - Get Perfect Bonus 03",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Super Battle| and |Ken [Player]|"
     },
     {
         "name": "Beat Ryu with Ken - Eternal Rivals",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Ken [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Vega with Ken - Defender of Love",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Ken [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Sagat with Ken - Glad I met you. I could have turned out like you.",
-        "category": ["Ken"],
+        "category": [
+            "Ken"
+        ],
         "requires": "|Ken [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
     },
     {
         "name": "Chun-Li - Fight 01 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 02 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 03 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Bonus 01 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 04 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 05 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 06 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Bonus 02 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 07 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 08 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 09 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Bonus 03 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 10 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
-        "name": "Chun-Li - Fight 11 Clear",  
-        "category": ["Chun-Li"],
+        "name": "Chun-Li - Fight 11 Clear",
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Fight 12 Clear",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Beat the Game with Chun-Li - Justice for the Fallen",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - First Attack",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Get Stun",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Get Perfect Round",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Win a Round Using Special Moves",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|@Chun-Li Moves:1| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Get Perfect Bonus 01",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Get Perfect Bonus 02",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Chun-Li - Get Perfect Bonus 03",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Super Battle| and |Chun-Li [Player]|"
     },
     {
         "name": "Beat Vega with Chun-Li - Beauty and the Beast",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat M.Bison with Chun-Li - Father, I Have Avenged You",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Guile with Chun-Li - Interpol Alliance",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Cammy with Chun-Li - Beauty Battle",
-        "category": ["Chun-Li"],
+        "category": [
+            "Chun-Li"
+        ],
         "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
     },
     {
         "name": "Zangief - Fight 01 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 02 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 03 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Bonus 01 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 04 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 05 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 06 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Bonus 02 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 07 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 08 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 09 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Bonus 03 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 10 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
-        "name": "Zangief - Fight 11 Clear",  
-        "category": ["Zangief"],
+        "name": "Zangief - Fight 11 Clear",
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Fight 12 Clear",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Beat the Game with Zangief - Patriot's Triumph",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - First Attack",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Zangief [Player]|"
     },
     {
         "name": "Zangief - Get Stun",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Zangief [Player]|"
     },
     {
         "name": "Zangief - Get Perfect Round",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Zangief [Player]|"
     },
     {
         "name": "Zangief - Win a Round Using Special Moves",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|@Zangief Moves:1| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Get Perfect Bonus 01",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Get Perfect Bonus 02",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Zangief - Get Perfect Bonus 03",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Super Battle| and |Zangief [Player]|"
     },
     {
         "name": "Beat E.Honda with Zangief - Clash of Strength",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Zangief [Player]| and |Super Battle| or (|Time Challenge| and |E.Honda [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Blanka with Zangief - Fur-ocious Battle",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Zangief [Player]| and |Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Guile with Zangief - Cold War Clash",
-        "category": ["Zangief"],
+        "category": [
+            "Zangief"
+        ],
         "requires": "|Zangief [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
     },
     {
         "name": "Dhalsim  - Fight 01 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 02 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 03 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Bonus 01 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 04 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 05 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 06 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Bonus 02 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 07 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 08 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 09 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Bonus 03 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 10 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
-        "name": "Dhalsim  - Fight 11 Clear",  
-        "category": ["Dhalsim"],
+        "name": "Dhalsim  - Fight 11 Clear",
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Fight 12 Clear",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Beat the Game with Dhalsim  - Zenith of Yoga",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - First Attack",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Get Stun",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Get Perfect Round",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim - Win a Round Using Special Moves",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|@Dhalsim Moves:1| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Get Perfect Bonus 01",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Get Perfect Bonus 02",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Dhalsim  - Get Perfect Bonus 03",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Super Battle| and |Dhalsim [Player]|"
     },
     {
         "name": "Beat E.Honda with Dhalsim - Heavyweight vs. Lightweight",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Dhalsim [Player]| and |Super Battle| or (|Time Challenge| and |E.Honda [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Blanka with Dhalsim - Beyond the Monster",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Dhalsim [Player]| and |Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Sagat with Dhalsim - One Bald Punch",
-        "category": ["Dhalsim"],
+        "category": [
+            "Dhalsim"
+        ],
         "requires": "|Dhalsim [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
     },
     {
         "name": "Cammy - Fight 01 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 02 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 03 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Bonus 01 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 04 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 05 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 06 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Bonus 02 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 07 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 08 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 09 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Bonus 03 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 10 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
-        "name": "Cammy - Fight 11 Clear",  
-        "category": ["Cammy"],
+        "name": "Cammy - Fight 11 Clear",
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Fight 12 Clear",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Beat the Game with Cammy - Awakening from the Shadows",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - First Attack",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]|"
     },
     {
         "name": "Cammy - Get Stun",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]|"
     },
     {
         "name": "Cammy - Get Perfect Round",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]|"
     },
     {
         "name": "Cammy - Win a Round Using Special Moves",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|@Cammy Moves:1| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Get Perfect Bonus 01",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Get Perfect Bonus 02",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Cammy - Get Perfect Bonus 03",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Super Battle| and |Cammy [Player]|"
     },
     {
         "name": "Beat M.Bison with Cammy - I'm Not Your Doll",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Chun-Li with Cammy - Femme Fatale Face-off",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Guile with Cammy - Delta Force vs. Air Force",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Vega with Cammy - Battle of the Braids",
-        "category": ["Cammy"],
+        "category": [
+            "Cammy"
+        ],
         "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
     },
     {
         "name": "Dee Jay - Fight 01 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 02 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 03 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Bonus 01 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 04 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 05 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 06 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Bonus 02 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 07 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 08 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 09 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Bonus 03 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 10 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
-        "name": "Dee Jay - Fight 11 Clear",  
-        "category": ["Dee Jay"],
+        "name": "Dee Jay - Fight 11 Clear",
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Fight 12 Clear",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Beat the Game with Dee Jay - Rhythm of Victory",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - First Attack",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Get Stun",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Get Perfect Round",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Win a Round Using Special Moves",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|@Dee Jay Moves:1| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Get Perfect Bonus 01",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Get Perfect Bonus 02",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "Dee Jay - Get Perfect Bonus 03",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Super Battle| and |Dee Jay [Player]|"
     },
     {
         "name": "The Beat of the Beast: Beat Blanka with Dee Jay",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Dee Jay [Player]| and |Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|)"
     },
     {
         "name": "Kung Fu vs. Dance Crew: Beat Fei Long with Dee Jay",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Dee Jay [Player]| and |Super Battle| or (|Time Challenge| and |Fei Long [CPU for Time Challenge]|)"
     },
     {
         "name": "Tribal Beats: Beat T.Hawk with Dee Jay",
-        "category": ["Dee Jay"],
+        "category": [
+            "Dee Jay"
+        ],
         "requires": "|Dee Jay [Player]| and |Super Battle| or (|Time Challenge| and |T.Hawk [CPU for Time Challenge]|)"
     },
     {
         "name": "Balrog - Fight 01 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 02 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 03 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Bonus 01 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 04 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 05 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 06 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Bonus 02 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 07 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 08 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 09 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Bonus 03 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 10 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
-        "name": "Balrog - Fight 11 Clear",  
-        "category": ["Balrog"],
+        "name": "Balrog - Fight 11 Clear",
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Fight 12 Clear",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Beat the Game with Balrog - Greed's Reward",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - First Attack",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Balrog [Player]|"
     },
     {
         "name": "Balrog - Get Stun",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Balrog [Player]|"
     },
     {
         "name": "Balrog - Get Perfect Round",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Balrog [Player]|"
     },
     {
         "name": "Balrog - Win a Round Using Special Moves",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|@Balrog Moves:1| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Get Perfect Bonus 01",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Get Perfect Bonus 02",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Balrog - Get Perfect Bonus 03",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Super Battle| and |Balrog [Player]|"
     },
     {
         "name": "Beat Chun-Li with Balrog - After the Father, the Daughter Falls",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Balrog [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Sagat with Balrog - Eye of the True Tiger",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Balrog [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Ken with Balrog - Stars and Strikes",
-        "category": ["Balrog"],
+        "category": [
+            "Balrog"
+        ],
         "requires": "|Balrog [Player]| and |Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
     },
     {
         "name": "Vega - Fight 01 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 02 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 03 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Bonus 01 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 04 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 05 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 06 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Bonus 02 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 07 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 08 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 09 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Bonus 03 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 10 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
-        "name": "Vega - Fight 11 Clear",  
-        "category": ["Vega"],
+        "name": "Vega - Fight 11 Clear",
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Fight 12 Clear",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Beat the Game with Vega - Reflections of Perfection",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - First Attack",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Vega [Player]|"
     },
     {
         "name": "Vega - Get Stun",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Vega [Player]|"
     },
     {
         "name": "Vega - Get Perfect Round",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Vega [Player]|"
     },
     {
         "name": "Vega - Win a Round Using Special Moves",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|@Vega Moves:1| and |Vega [Player]|"
     },
     {
         "name": "Vega - Get Perfect Bonus 01",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Get Perfect Bonus 02",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Vega - Get Perfect Bonus 03",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Super Battle| and |Vega [Player]|"
     },
     {
         "name": "Beat Chun-Li with Vega - No Escape This Time",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Vega [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Cammy with Vega - Braid to Braid Combat",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Vega [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Ryu with Vega - Where Were We?",
-        "category": ["Vega"],
+        "category": [
+            "Vega"
+        ],
         "requires": "|Vega [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
     },
     {
         "name": "Sagat - Fight 01 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 02 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 03 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Bonus 01 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 04 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 05 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 06 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Bonus 02 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 07 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 08 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 09 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Bonus 03 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 10 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
-        "name": "Sagat - Fight 11 Clear",  
-        "category": ["Sagat"],
+        "name": "Sagat - Fight 11 Clear",
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Fight 12 Clear",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Beat the Game with Sagat - The King's Unfinished Business",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - First Attack",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Sagat [Player]|"
     },
     {
         "name": "Sagat - Get Stun",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Sagat [Player]|"
     },
     {
         "name": "Sagat - Get Perfect Round",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Sagat [Player]|"
     },
     {
         "name": "Sagat - Win a Round Using Special Moves",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|@Sagat Moves:1| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Get Perfect Bonus 01",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Get Perfect Bonus 02",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Sagat - Get Perfect Bonus 03",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Super Battle| and |Sagat [Player]|"
     },
     {
         "name": "Beat Ryu with Sagat - Scarred for Vengeance",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Sagat [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat Balrog with Sagat - Eye of the Tiger Knee",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Sagat [Player]| and |Super Battle| or (|Time Challenge| and |Balrog [CPU for Time Challenge]|)"
     },
     {
         "name": "Beat M.Bison with Sagat - Tiger vs. Tyrant",
-        "category": ["Sagat"],
+        "category": [
+            "Sagat"
+        ],
         "requires": "|Sagat [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
     },
     {
         "name": "M.Bison - Fight 01 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 02 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 03 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Bonus 01 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 04 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 05 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 06 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Bonus 02 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 07 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 08 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 09 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Bonus 03 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 10 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
-        "name": "M.Bison - Fight 11 Clear",  
-        "category": ["M.Bison"],
+        "name": "M.Bison - Fight 11 Clear",
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Fight 12 Clear",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
-        "name": "Beat the Game with M. Bison - World Conqueror",
-        "category": ["M.Bison"],
+        "name": "Beat the Game with M.Bison - World Conqueror",
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - First Attack",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Get Stun",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Get Perfect Round",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Win a Round Using Special Moves",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|@M.Bison Moves:1| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Get Perfect Bonus 01",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Get Perfect Bonus 02",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
         "name": "M.Bison - Get Perfect Bonus 03",
-        "category": ["M.Bison"],
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|Super Battle| and |M.Bison [Player]|"
     },
     {
-        "name": "Beat Guile with M. Bison - Deny My Divinity?",
-        "category": ["M.Bison"],
+        "name": "Beat Guile with M.Bison - Deny My Divinity?",
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
     },
     {
-        "name": "Beat Chun-Li with M. Bison - But for Me, It Was Tuesday",
-        "category": ["M.Bison"],
+        "name": "Beat Chun-Li with M.Bison - But for Me, It Was Tuesday",
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
     },
     {
-        "name": "Beat Cammy with M. Bison - You Were the Best, But Still Just a Doll",
-        "category": ["M.Bison"],
+        "name": "Beat Cammy with M.Bison - You Were the Best, But Still Just a Doll",
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
     },
     {
-        "name": "Defeat Sagat with M. Bison - Guess Who's Not Seeing a Thing",
-        "category": ["M.Bison"],
+        "name": "Defeat Sagat with M.Bison - Guess Who's Not Seeing a Thing",
+        "category": [
+            "M.Bison"
+        ],
         "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
     },
     {
         "name": "Ryu in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "E.Honda in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Blanka in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Guile in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "T.Hawk in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Fei Long in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Balrog in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Sagat in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Ken in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Chun-Li in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Zangief in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Dhalsim in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Cammy in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Dee Jay in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Vega in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "M.Bison in Super Battle Mode - Defeat",
-        "category": ["Defeated in Super Battle Mode"],
+        "category": [
+            "Defeated in Super Battle Mode"
+        ],
         "requires": "|Super Battle|"
     },
     {
         "name": "Ryu in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Ryu [CPU for Time Challenge]|"
     },
     {
         "name": "E.Honda in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |E.Honda [CPU for Time Challenge]|"
     },
     {
         "name": "Blanka in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Blanka [CPU for Time Challenge]|"
     },
     {
         "name": "Guile in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Guile [CPU for Time Challenge]|"
     },
     {
         "name": "T.Hawk in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |T.Hawk [CPU for Time Challenge]|"
     },
     {
         "name": "Fei Long in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Fei Long [CPU for Time Challenge]|"
     },
     {
         "name": "Balrog in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Balrog [CPU for Time Challenge]|"
     },
     {
         "name": "Sagat in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Sagat [CPU for Time Challenge]|"
     },
     {
         "name": "Ken in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Ken [CPU for Time Challenge]|"
     },
     {
         "name": "Chun-Li in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Chun-Li [CPU for Time Challenge]|"
     },
     {
         "name": "Zangief in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Zangief [CPU for Time Challenge]|"
     },
     {
         "name": "Dhalsim in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Dhalsim [CPU for Time Challenge]|"
     },
     {
         "name": "Cammy in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Cammy [CPU for Time Challenge]|"
     },
     {
         "name": "Dee Jay in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Dee Jay [CPU for Time Challenge]|"
     },
     {
         "name": "Vega in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |Vega [CPU for Time Challenge]|"
     },
     {
         "name": "M.Bison in Time Challenge - Defeat",
-        "category": ["Defeated in Time Challenge"],
+        "category": [
+            "Defeated in Time Challenge"
+        ],
         "requires": "|Time Challenge| and |M.Bison [CPU for Time Challenge]|"
     },
     {
         "name": "Guile Stage - Left Crate Destroyed",
-        "category": ["Stage"],
+        "category": [
+            "Stage"
+        ],
         "requires": "|Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
     },
     {
         "name": "Guile Stage - Right Crate Destroyed",
-        "category": ["Stage"],
+        "category": [
+            "Stage"
+        ],
         "requires": "|Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
     },
     {
         "name": "Ken Stage - Barrel Destroyed",
-        "category": ["Stage"],
+        "category": [
+            "Stage"
+        ],
         "requires": "|Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
     },
     {
-        "name": "M. Bison Stage - Left Statue Destroyed",
-        "category": ["Stage"],
+        "name": "M.Bison Stage - Left Statue Destroyed",
+        "category": [
+            "Stage"
+        ],
         "requires": "|Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
     },
     {
-        "name": "M. Bison Stage - Right Statue Destroyed",
-        "category": ["Stage"],
+        "name": "M.Bison Stage - Right Statue Destroyed",
+        "category": [
+            "Stage"
+        ],
         "requires": "|Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
     },
     {
         "name": "Finish the Super Battle mode with the Four Shadaloo Bosses - Shadaloo's Conquest",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|M.Bison [Player]| and |Sagat [Player]| and |Vega [Player]| and |Balrog [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Guile, Cammy, and Chun-Li - Justice League",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Cammy [Player]| and |Chun-Li [Player]| and |Guile [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Ken and Ryu - Ado's School of Fighting",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Ken [Player]| and |Ryu [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Dee Jay, Cammy, T.Hawk, and Fei Long - New Challenger",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Cammy [Player]| and |T.Hawk [Player]| and |Dee Jay [Player]| and |Fei Long [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Chun-Li, E.Honda, and Balrog - GNT News Team",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|E.Honda [Player]| and |Chun-Li [Player]| and |Balrog [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Guile, Cammy, and T.Hawk - Allied Nations Strike Team",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Guile [Player]| and |Cammy [Player]| and |T.Hawk [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Ryu, Ken, Chun-Li, Guile, Blanka, E.Honda, Zangief, and Dhalsim - The Original Eight",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Ryu [Player]| and |Ken [Player]| and |Chun-Li [Player]| and |Guile [Player]| and |Blanka [Player]| and |E.Honda [Player]| and |Zangief [Player]| and |Dhalsim [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Ryu, E.Honda, Chun-Li, Dhalsim, Fei Long, and Sagat - Warriors of Asia",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Ryu [Player]| and |E.Honda [Player]| and |Chun-Li [Player]| and |Dhalsim [Player]| and |Fei Long [Player]| and |Sagat [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Zangief, Vega, and Cammy - Warriors of Europe",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Zangief [Player]| and |Vega [Player]| and |Cammy [Player]| and |Super Battle|"
     },
     {
         "name": "Finish the Super Battle mode with Ken, Guile, Balrog, T.Hawk, Dee Jay, and Blanka - Warriors of the Americas",
-        "category": ["Special"],
+        "category": [
+            "Special"
+        ],
         "requires": "|Ken [Player]| and |Guile [Player]| and |Balrog [Player]| and |T.Hawk [Player]| and |Dee Jay [Player]| and |Blanka [Player]| and |Super Battle|"
     },
     {
         "name": "Super Battle Mode -ALL CLEARS-",
         "victory": true,
-        "category": ["Goal"],
+        "category": [
+            "Goal"
+        ],
         "requires": "|Super Battle| and |@Characters:ALL|"
     },
     {
         "name": "Time Challenge Mode -ALL CLEARS-",
         "victory": true,
-        "category": ["Goal"],
+        "category": [
+            "Goal"
+        ],
         "requires": "|Time Challenge| and |@CPU Time Challenge:ALL|"
     },
     {
         "name": "ALL CLEARS + TOKENS",
         "victory": true,
-        "category": ["Goal"],
-        "requires": "|Game Mode:ALL| and |@Characters:ALL| and |@CPU Time Challenge:ALL| and |Shadaloo Emblem:ALL|"
+        "category": [
+            "Goal"
+        ],
+        "requires": "|@Game Mode:ALL| and |@Characters:ALL| and |@CPU Time Challenge:ALL| and |Shadaloo Emblem:ALL|"
     },
     {
         "name": "Street Fighter Token",
         "victory": true,
-        "category": ["Goal"],
+        "category": [
+            "Goal"
+        ],
         "requires": "|Shadaloo Emblem:ALL|"
     }
 ]

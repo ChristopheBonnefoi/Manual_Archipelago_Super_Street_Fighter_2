@@ -28,71 +28,109 @@
 name: Player{number}
 
 # Used to describe your yaml. Useful if you have multiple files.
-description: Custom Manual_SSF2_NaruSnake Template with Special Toggles
+description: Default Manual_SSF2_NaruSnake Template
 
 game: Manual_SSF2_NaruSnake
 requires:
-    version: 0.6.1 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.6.7 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_SSF2_NaruSnake:
-  # Game Options
+  ################
+  # Game Options #
+  ################
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
-    #
+    # 
     # A lower setting means more getting stuck. A higher setting means less getting stuck.
     #
     # You can define additional values between the minimum and maximum values.
     # Minimum value is 0
     # Maximum value is 99
     random: 0
-    random-low: 0
-    random-high: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-0-99: 0 # random value between 0 and 99
     disabled: 0 # equivalent to 0
-    normal: 50  # equivalent to 50
-    extreme: 0  # equivalent to 99
+    normal: 50 # equivalent to 50
+    extreme: 0 # equivalent to 99
 
   accessibility:
     # Set rules for reachability of your items/locations.
-    #
+    # 
     # **Full:** ensure everything can be reached and acquired.
-    #
+    # 
     # **Minimal:** ensure what is needed to reach your goal can be acquired.
     full: 50
     minimal: 0
 
   goal:
-    # Choose your victory condition.
+    # How to end your randomized playthrough.
     super battle mode -all clears-: 50
     time challenge mode -all clears-: 0
     all clears + tokens: 0
     street fighter token: 0
 
-  Difficulty:
-    # Increase the difficulty of the item pool to your desired challenge level.
-    'false': 0
-    'true': 50
-
-  Special_Moves:
-    # Remove special‑move items from the pool when false.
-    'false': 0
-    'true': 50
-
-  Token:
-    # Disable token items in the pool when false.
+  ##############
+  # Game Modes #
+  ##############
+  Super_Battle:
+    # Include Super Battle mode progression and checks.
+    # If a Super Battle goal is selected, this option is forced on to keep the goal reachable.
     'false': 0
     'true': 50
 
   CPU_Time_Challenge:
-    # Exclude CPU Time Challenge mode items when false.
+    # Include Time Challenge CPU items and Time Challenge checks.
+    # If a Time Challenge goal is selected, this option is forced on to keep the goal reachable.
     'false': 0
     'true': 50
 
-  Super_Battle:
-    # Exclude Super Battle mode items when false.
+  ####################
+  # Gameplay Options #
+  ####################
+  Difficulty:
+    # Increase the difficulty of the item pool to customize how challenging you want your playthrough to be.
     'false': 0
     'true': 50
 
-  # Item & Location Options
+  Special_Moves:
+    # When off, removes special-move items from the pool.
+    'false': 0
+    'true': 50
+
+  ################
+  # Goal Options #
+  ################
+  shadaloo_emblems_required:
+    # Choose how many Shadaloo Emblems are required for token goals.
+    # Shadaloo Emblems are only added to the item pool when the selected goal requires them.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 1
+    # Maximum value is 100
+    100: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-1-100: 0 # random value between 1 and 100
+
+  shadaloo_emblems_available_percentage:
+    # Controls how many Shadaloo Emblem items are placed compared to the required amount.
+    # 100 means only the required amount is placed. 200 means double the required amount is placed.
+    # The final amount is capped at 100 Shadaloo Emblems.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 100
+    # Maximum value is 400
+    100: 50
+    random: 0
+    random-low: 0 # random value weighted towards lower values
+    random-high: 0 # random value weighted towards higher values
+    random-range-100-400: 0 # random value between 100 and 400
+
+  ###########################
+  # Item & Location Options #
+  ###########################
   local_items:
     # Forces these items to be in their native world.
     []
@@ -102,11 +140,12 @@ Manual_SSF2_NaruSnake:
     []
 
   start_inventory:
-    # Start with these items.
+    # Start with the specified amount of these items. Example: "Bomb: 1"
     {}
 
   start_inventory_from_pool:
-    # Start with these items and don't place them in the world.
+    # Start with the specified amount of these items and don't place them in the world. Example: "Bomb: 1"
+    # 
     # The game decides what the replacement items will be.
     {}
 
@@ -128,4 +167,8 @@ Manual_SSF2_NaruSnake:
 
   item_links:
     # Share part of your item pool with other players.
+    []
+
+  plando_items:
+    # Generic items plando.
     []
