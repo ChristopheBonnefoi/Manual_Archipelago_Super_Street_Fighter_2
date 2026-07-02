@@ -45,12 +45,13 @@ Les données de jeu restent centrées sur SSF2, tandis que la structure du packa
 - Ajout et traduction en anglais des items actuellement présents dans la catégorie `Filler`.
 - Ajout du forçage automatique des options nécessaires selon l'objectif choisi.
 - Support du forçage de `Super_Battle`, `CPU_Time_Challenge` et `Token` quand l'objectif sélectionné en dépend.
+- Correction du groupement des `requires` de duels de personnages pour que le personnage joueur soit requis dans la branche Super Battle comme dans la branche Time Challenge.
 - Ajout de `sort-key` stables via `hooks/Data.py` pour conserver l'ordre voulu des locations dans le client Manual.
 
 **Options, catégories et YAML**
 - Ajout des options `Super_Battle` et `CPU_Time_Challenge`.
-- Retrait du toggle YAML public `Token` et conservation d'une logique de placement des tokens geree par les besoins en `Shadaloo Emblem`.
-- Clarification du comportement de `Special_Moves` : d?sactiver cette option retire les items de coups sp?ciaux du pool, mais les checks de coups sp?ciaux restent disponibles car les coups peuvent ?tre utilis?s librement sans restriction d'item.
+- Retrait du toggle YAML public `Token` et conservation d'une logique de placement des tokens g?r?e par les besoins en `Shadaloo Emblem`.
+- Clarification du comportement de `Special_Moves` : quand cette option est desactivee, les items de coups speciaux sont retires du pool, mais les checks de coups speciaux restent disponibles car les coups peuvent etre utilises librement sans restriction d'item.
 - Ajout des r?glages d'objectif `shadaloo_emblems_required` et `shadaloo_emblems_available_percentage`.
 - Ajout d'aliases d'objectifs pour rendre le YAML plus propre.
 - Branchement des catégories pour les checks Super Battle, les checks Time Challenge, les items CPU Time Challenge, les Special Moves, la Difficulty, les Tokens et les futurs fillers.
@@ -62,9 +63,9 @@ Les données de jeu restent centrées sur SSF2, tandis que la structure du packa
 
 **Documentation**
 - Mise à jour du README pour la release 1.0.0.
-- Ajout de cette version française dans `manual_ssf2_narusnake/docs/README_FR.md`.
-- Ajout d'un guide YAML anglais dans `manual_ssf2_narusnake/docs/guide.md`.
-- Ajout d'un guide YAML français dans `manual_ssf2_narusnake/docs/guide_fr.md`.
+- Ajout de cette version française dans `docs/README_FR.md`.
+- Ajout d'un guide YAML anglais dans `docs/guide_en/guide.md`, hors du package runtime.
+- Ajout d'un guide YAML français dans `docs/guide_fr/guide.md`.
 - Les guides expliquent les poids YAML, les valeurs random, les checks, les modes de jeu, les goals, les réglages de tokens Shadaloo Emblem, les noms exacts d'items/locations et des presets d'exemple.
 
 **Notes pour cette release**

@@ -165,21 +165,21 @@
         "category": [
             "Ryu"
         ],
-        "requires": "|Ryu [Player]| and |Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
+        "requires": "|Ryu [Player]| and (|Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Vega with Ryu - You Were Losing, I Think",
         "category": [
             "Ryu"
         ],
-        "requires": "|Ryu [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
+        "requires": "|Ryu [Player]| and (|Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Sagat with Ryu - Scar of Honor",
         "category": [
             "Ryu"
         ],
-        "requires": "|Ryu [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
+        "requires": "|Ryu [Player]| and (|Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|))"
     },
     {
         "name": "E.Honda - Fight 01 Clear",
@@ -347,21 +347,21 @@
         "category": [
             "E.Honda"
         ],
-        "requires": "|E.Honda [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
+        "requires": "|E.Honda [Player]| and (|Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|))"
     },
     {
         "name": "Defeat Ryu with E.Honda - Japanese Duel",
         "category": [
             "E.Honda"
         ],
-        "requires": "|E.Honda [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
+        "requires": "|E.Honda [Player]| and (|Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|))"
     },
     {
         "name": "Defeat Ken with E.Honda - City Hunter Clash",
         "category": [
             "E.Honda"
         ],
-        "requires": "|E.Honda [Player]| and |Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
+        "requires": "|E.Honda [Player]| and (|Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|))"
     },
     {
         "name": "Blanka - Fight 01 Clear",
@@ -529,21 +529,21 @@
         "category": [
             "Blanka"
         ],
-        "requires": "|Blanka [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
+        "requires": "|Blanka [Player]| and (|Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Cammy with Blanka - Battle for Redemption",
         "category": [
             "Blanka"
         ],
-        "requires": "|Blanka [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
+        "requires": "|Blanka [Player]| and (|Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Dhalsim with Blanka - Humanity's Touch",
         "category": [
             "Blanka"
         ],
-        "requires": "|Blanka [Player]| and |Super Battle| or (|Time Challenge| and |Dhalsim [CPU for Time Challenge]|)"
+        "requires": "|Blanka [Player]| and (|Super Battle| or (|Time Challenge| and |Dhalsim [CPU for Time Challenge]|))"
     },
     {
         "name": "Guile - Fight 01 Clear",
@@ -711,21 +711,21 @@
         "category": [
             "Guile"
         ],
-        "requires": "|Guile [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
+        "requires": "|Guile [Player]| and (|Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Cammy with Guile - Training Day",
         "category": [
             "Guile"
         ],
-        "requires": "|Guile [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
+        "requires": "|Guile [Player]| and (|Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat M.Bison with Guile - This is the Collection Agency, Bison. Your Ass is Six Months Overdue, and It's Mine.",
         "category": [
             "Guile"
         ],
-        "requires": "|Guile [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
+        "requires": "|Guile [Player]| and (|Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|))"
     },
     {
         "name": "T.Hawk - Fight 01 Clear",
@@ -893,21 +893,21 @@
         "category": [
             "T.Hawk"
         ],
-        "requires": "|T.Hawk [Player]| and |Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|)"
+        "requires": "|T.Hawk [Player]| and (|Super Battle| or (|Time Challenge| and |Zangief [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Dhalsim with T.Hawk - Spiritual Showdown",
         "category": [
             "T.Hawk"
         ],
-        "requires": "|T.Hawk [Player]| and |Super Battle| or (|Time Challenge| and |Dhalsim [CPU for Time Challenge]|)"
+        "requires": "|T.Hawk [Player]| and (|Super Battle| or (|Time Challenge| and |Dhalsim [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Cammy with T.Hawk - Sky Power",
         "category": [
             "T.Hawk"
         ],
-        "requires": "|T.Hawk [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
+        "requires": "|T.Hawk [Player]| and (|Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|))"
     },
     {
         "name": "Fei Long - Fight 01 Clear",
@@ -1075,21 +1075,21 @@
         "category": [
             "Fei Long"
         ],
-        "requires": "|Fei Long [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
+        "requires": "|Fei Long [Player]| and (|Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Chun-Li with Fei Long - Clash of the Dragons",
         "category": [
             "Fei Long"
         ],
-        "requires": "|Fei Long [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
+        "requires": "|Fei Long [Player]| and (|Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Sagat with Fei Long - Big Boss Showdown",
         "category": [
             "Fei Long"
         ],
-        "requires": "|Fei Long [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
+        "requires": "|Fei Long [Player]| and (|Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|))"
     },
     {
         "name": "Ken - Fight 01 Clear",
@@ -1257,21 +1257,21 @@
         "category": [
             "Ken"
         ],
-        "requires": "|Ken [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
+        "requires": "|Ken [Player]| and (|Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Vega with Ken - Defender of Love",
         "category": [
             "Ken"
         ],
-        "requires": "|Ken [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
+        "requires": "|Ken [Player]| and (|Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Sagat with Ken - Glad I met you. I could have turned out like you.",
         "category": [
             "Ken"
         ],
-        "requires": "|Ken [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
+        "requires": "|Ken [Player]| and (|Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|))"
     },
     {
         "name": "Chun-Li - Fight 01 Clear",
@@ -1439,28 +1439,28 @@
         "category": [
             "Chun-Li"
         ],
-        "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
+        "requires": "|Chun-Li [Player]| and (|Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat M.Bison with Chun-Li - Father, I Have Avenged You",
         "category": [
             "Chun-Li"
         ],
-        "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
+        "requires": "|Chun-Li [Player]| and (|Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Guile with Chun-Li - Interpol Alliance",
         "category": [
             "Chun-Li"
         ],
-        "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
+        "requires": "|Chun-Li [Player]| and (|Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Cammy with Chun-Li - Beauty Battle",
         "category": [
             "Chun-Li"
         ],
-        "requires": "|Chun-Li [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
+        "requires": "|Chun-Li [Player]| and (|Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|))"
     },
     {
         "name": "Zangief - Fight 01 Clear",
@@ -1628,21 +1628,21 @@
         "category": [
             "Zangief"
         ],
-        "requires": "|Zangief [Player]| and |Super Battle| or (|Time Challenge| and |E.Honda [CPU for Time Challenge]|)"
+        "requires": "|Zangief [Player]| and (|Super Battle| or (|Time Challenge| and |E.Honda [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Blanka with Zangief - Fur-ocious Battle",
         "category": [
             "Zangief"
         ],
-        "requires": "|Zangief [Player]| and |Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|)"
+        "requires": "|Zangief [Player]| and (|Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Guile with Zangief - Cold War Clash",
         "category": [
             "Zangief"
         ],
-        "requires": "|Zangief [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
+        "requires": "|Zangief [Player]| and (|Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|))"
     },
     {
         "name": "Dhalsim  - Fight 01 Clear",
@@ -1810,21 +1810,21 @@
         "category": [
             "Dhalsim"
         ],
-        "requires": "|Dhalsim [Player]| and |Super Battle| or (|Time Challenge| and |E.Honda [CPU for Time Challenge]|)"
+        "requires": "|Dhalsim [Player]| and (|Super Battle| or (|Time Challenge| and |E.Honda [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Blanka with Dhalsim - Beyond the Monster",
         "category": [
             "Dhalsim"
         ],
-        "requires": "|Dhalsim [Player]| and |Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|)"
+        "requires": "|Dhalsim [Player]| and (|Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Sagat with Dhalsim - One Bald Punch",
         "category": [
             "Dhalsim"
         ],
-        "requires": "|Dhalsim [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
+        "requires": "|Dhalsim [Player]| and (|Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|))"
     },
     {
         "name": "Cammy - Fight 01 Clear",
@@ -1992,28 +1992,28 @@
         "category": [
             "Cammy"
         ],
-        "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
+        "requires": "|Cammy [Player]| and (|Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Chun-Li with Cammy - Femme Fatale Face-off",
         "category": [
             "Cammy"
         ],
-        "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
+        "requires": "|Cammy [Player]| and (|Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Guile with Cammy - Delta Force vs. Air Force",
         "category": [
             "Cammy"
         ],
-        "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
+        "requires": "|Cammy [Player]| and (|Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Vega with Cammy - Battle of the Braids",
         "category": [
             "Cammy"
         ],
-        "requires": "|Cammy [Player]| and |Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|)"
+        "requires": "|Cammy [Player]| and (|Super Battle| or (|Time Challenge| and |Vega [CPU for Time Challenge]|))"
     },
     {
         "name": "Dee Jay - Fight 01 Clear",
@@ -2181,21 +2181,21 @@
         "category": [
             "Dee Jay"
         ],
-        "requires": "|Dee Jay [Player]| and |Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|)"
+        "requires": "|Dee Jay [Player]| and (|Super Battle| or (|Time Challenge| and |Blanka [CPU for Time Challenge]|))"
     },
     {
         "name": "Kung Fu vs. Dance Crew: Beat Fei Long with Dee Jay",
         "category": [
             "Dee Jay"
         ],
-        "requires": "|Dee Jay [Player]| and |Super Battle| or (|Time Challenge| and |Fei Long [CPU for Time Challenge]|)"
+        "requires": "|Dee Jay [Player]| and (|Super Battle| or (|Time Challenge| and |Fei Long [CPU for Time Challenge]|))"
     },
     {
         "name": "Tribal Beats: Beat T.Hawk with Dee Jay",
         "category": [
             "Dee Jay"
         ],
-        "requires": "|Dee Jay [Player]| and |Super Battle| or (|Time Challenge| and |T.Hawk [CPU for Time Challenge]|)"
+        "requires": "|Dee Jay [Player]| and (|Super Battle| or (|Time Challenge| and |T.Hawk [CPU for Time Challenge]|))"
     },
     {
         "name": "Balrog - Fight 01 Clear",
@@ -2363,21 +2363,21 @@
         "category": [
             "Balrog"
         ],
-        "requires": "|Balrog [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
+        "requires": "|Balrog [Player]| and (|Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Sagat with Balrog - Eye of the True Tiger",
         "category": [
             "Balrog"
         ],
-        "requires": "|Balrog [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
+        "requires": "|Balrog [Player]| and (|Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Ken with Balrog - Stars and Strikes",
         "category": [
             "Balrog"
         ],
-        "requires": "|Balrog [Player]| and |Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|)"
+        "requires": "|Balrog [Player]| and (|Super Battle| or (|Time Challenge| and |Ken [CPU for Time Challenge]|))"
     },
     {
         "name": "Vega - Fight 01 Clear",
@@ -2545,21 +2545,21 @@
         "category": [
             "Vega"
         ],
-        "requires": "|Vega [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
+        "requires": "|Vega [Player]| and (|Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Cammy with Vega - Braid to Braid Combat",
         "category": [
             "Vega"
         ],
-        "requires": "|Vega [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
+        "requires": "|Vega [Player]| and (|Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Ryu with Vega - Where Were We?",
         "category": [
             "Vega"
         ],
-        "requires": "|Vega [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
+        "requires": "|Vega [Player]| and (|Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|))"
     },
     {
         "name": "Sagat - Fight 01 Clear",
@@ -2727,21 +2727,21 @@
         "category": [
             "Sagat"
         ],
-        "requires": "|Sagat [Player]| and |Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|)"
+        "requires": "|Sagat [Player]| and (|Super Battle| or (|Time Challenge| and |Ryu [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Balrog with Sagat - Eye of the Tiger Knee",
         "category": [
             "Sagat"
         ],
-        "requires": "|Sagat [Player]| and |Super Battle| or (|Time Challenge| and |Balrog [CPU for Time Challenge]|)"
+        "requires": "|Sagat [Player]| and (|Super Battle| or (|Time Challenge| and |Balrog [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat M.Bison with Sagat - Tiger vs. Tyrant",
         "category": [
             "Sagat"
         ],
-        "requires": "|Sagat [Player]| and |Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|)"
+        "requires": "|Sagat [Player]| and (|Super Battle| or (|Time Challenge| and |M.Bison [CPU for Time Challenge]|))"
     },
     {
         "name": "M.Bison - Fight 01 Clear",
@@ -2909,28 +2909,28 @@
         "category": [
             "M.Bison"
         ],
-        "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|)"
+        "requires": "|M.Bison [Player]| and (|Super Battle| or (|Time Challenge| and |Guile [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Chun-Li with M.Bison - But for Me, It Was Tuesday",
         "category": [
             "M.Bison"
         ],
-        "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|)"
+        "requires": "|M.Bison [Player]| and (|Super Battle| or (|Time Challenge| and |Chun-Li [CPU for Time Challenge]|))"
     },
     {
         "name": "Beat Cammy with M.Bison - You Were the Best, But Still Just a Doll",
         "category": [
             "M.Bison"
         ],
-        "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|)"
+        "requires": "|M.Bison [Player]| and (|Super Battle| or (|Time Challenge| and |Cammy [CPU for Time Challenge]|))"
     },
     {
         "name": "Defeat Sagat with M.Bison - Guess Who's Not Seeing a Thing",
         "category": [
             "M.Bison"
         ],
-        "requires": "|M.Bison [Player]| and |Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|)"
+        "requires": "|M.Bison [Player]| and (|Super Battle| or (|Time Challenge| and |Sagat [CPU for Time Challenge]|))"
     },
     {
         "name": "Ryu in Super Battle Mode - Defeat",

@@ -45,6 +45,7 @@ The core gameplay data is still SSF2-focused, while the package structure, clien
 - Added and translated the current dedicated `Filler` category items into English.
 - Added goal-based option forcing so required modes stay enabled for their selected goals.
 - Added support for forcing `Super_Battle` and `CPU_Time_Challenge` when a selected goal needs them. Token handling is inferred from the selected goal.
+- Fixed character duel requirement grouping so the selected player character applies to both the Super Battle branch and the Time Challenge branch.
 - Added stable location sort keys through `hooks/Data.py` so the Manual client can keep the intended location order.
 
 **Options, categories, and YAML**
@@ -62,9 +63,9 @@ The core gameplay data is still SSF2-focused, while the package structure, clien
 
 **Documentation**
 - Updated this README for the 1.0.0 release update.
-- Added a French README at `manual_ssf2_narusnake/docs/README_FR.md`.
-- Added an English YAML guide at `manual_ssf2_narusnake/docs/guide.md`.
-- Added a French YAML guide at `manual_ssf2_narusnake/docs/guide_fr.md`.
+- Added a French README at `docs/README_FR.md` outside the runtime package.
+- Added an English YAML guide at `docs/guide_en/guide.md` outside the runtime package.
+- Added a French YAML guide at `docs/guide_fr/guide.md` outside the runtime package.
 - The guides explain YAML weights, random values, checks, game modes, goals, Shadaloo Emblem token settings, exact item/location names, and example presets.
 
 **Notes for this release**
